@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>API Documentation</title>
+    </head>
+
+    <body>
+        <h1>API Documentation</h1>
+        <p>Here we're going to explain our design, the collections used and the routes 
+            the user has to follow to complete all the funcionalities. <br><br>
+
+            It's recommended using Postman for posting, updating and deleting requests. For getting requests
+            any explorer with a JSON viewer can show the information in a good way.
+        </p>
+        <div id="collections-column">
+            <h2>Collections</h2>
+            <p>For resolving all the funcionalities we use 4 collections, that are:
+                <ol>
+                    <li value="1">hotels</li>                            
+                    <li>users</li>                            
+                    <li>companies</li>
+                    <li>bookings</li>
+                </ol>                    
+                Is important to say that the collections names are in lower case because of the mongoose specifications.
+                It takes the collection name, put it into lower case and put an 's' at the end. <br><br>
+
+                 Now, we are going to explain every route in each collection. All the collections need server.js to get started in the terminal
+                 by typing node server.js. They all are listening on port 3000.
+            </p>
+            <h3>hotels</h3>
+            <p>
+                The hotels collection has the following routes:
+                <ul>
+                    <li>app.get('/Hotel', hotel.findAll)
+                        <p>For searching hotels by severial criteria (Funcionality #1).<br><br>
+                            It's called in http://localhost:3000/Hotel/ and following the '/', the user has to put '?', then
+                            the variable name followed by an '=' and then the value the user want. In case of searching
+                            by several criteria the user has to use the corrects operators for example: 
+                            http://localhost:3000/Hotel/?State=KERALA&Size=Large retrieve every hotel
+                            that its State is KERALA and its Size is Large. <br>
+                            The variables names in the URL have to be identical that the ones in the collection schema
+                            for a correct searching.
+                        </p>
+                    </li>
+                    <li> app.get('/Hotel/:latitude/:longitude/:range', hotel.findAll)
+                            <p>For searching hotels by latitude, longitude and a range (Funcionality #2).<br><br>
+                                It's called in http://localhost:3000/Hotel/ and following the '/' the user has to put the 
+                                latitude, longitude and the range separated by '/'. And using the Haversine Distance equation,
+                                its retrieve all the hotels in the given range (kms). For example: <br>
+                                http://localhost:3000/Hotel/20/70/50 will return every hotel in a radial range
+                                of 50km from the coordenades 20, 70 latitude an longitude respectively.
+                            </p>
+                    </li>  
+                    <li>app.post('/Hotel', hotel.create)
+                            <p>For creating hotels (Funcionality #8).<br><br>
+                                It's called in http://localhost:3000/Hotel.
+                                The APIKey, and so the rest of the information, must be written in the body text.
+                                The user must put, at least, HOTELNAME, Address, Type, Rooms, State fields in order to create an
+                                hotel. The rest of the fields are optional (EMAILID, Phone,
+                                Fax,    
+                                Website,                               
+                                Size,
+                                Latitude,
+                                Longitude). It will return the new hotel information.
+                            </p>
+                    </li>
+                    <li>app.put('/Hotel', hotel.update);
+                            <p>For updating hotels (Funcionality #9).<br><br>
+                                It's called in http://localhost:3000/Hotel.
+                                The APIKey, the hotelID, and the updatable fields (Type, Rooms, Phone, Website, EMAILID) must be written in the body text.
+                                It will return the updated hotel information. Any other field, different to the ones named above, written in the body text will be ignored and not updated.
+                            </p>
+                    </li>
+                    <li>app.delete('/Hotel', hotel.delete)
+                            <p>For deleting hotels (Funcionality #10).<br><br>
+                                It's called in http://localhost:3000/Hotel.
+                                The APIKey and the hotelID must be written in the body text. It will return a message in case of 
+                                a successfully deleting or an error for some reason and the explanation.                        
+                            </p>
+                    </li>                   
+                </ul>
+            </p>
+            <h3>users</h3>
+            <p>
+                The users collection has the following routes:
+                <ul>                    
+                    <li>app.post('/User', user.create)
+                            <p>For creating users (Funcionality #4).<br><br>
+                                It's called in http://localhost:3000/User. All the information must be written in the 
+                                body text (email,
+                                password,
+                                name,
+                                lastName,
+                                address). It will return new userID.
+                    </li>                    
+                    <li>app.put('/User', user.update)
+                            <p>For updating users (Funcionality #5).<br><br>
+                                It's called in http://localhost:3000/User. The password, address and the userID, must be written in the body text for veryfying purposes.
+				In case the user wants to update his password or his address he has to put them in "newPassword" and 
+                                "newAddress" fields, respectively. The userID is unmodifiable. It will return a "1" in case of a positive updating
+                                or a "0" join with an explanation in case of an error.
+                    </li>     
+                </ul>
+            </p>
+            <h3>companies</h3>
+            <p>
+                The companies collection has the following routes:
+                <ul>                    
+                    <li>app.post('/Company', company.create)
+                            <p>For creating APIKey users (Funcionality #7).<br><br>
+                                It's called in http://localhost:3000/Company. All the information must be written
+                                in the body text (contactName,
+                                company,
+                                email,
+                                APIKey). It will return the new APIKey.
+                    </li>                      
+                </ul>
+            </p>
+            <h3>bookings</h3>
+            <p>
+                The bookings collection has the following routes:
+                <ul>                    
+                    <li>app.get('/Booking/:stDate/:endDate/:state', booking.findAll)
+                            <p>For checking availability in hotels (Funcionality #3).<br><br>
+                            It's called in http://localhost:3000/Booking/ and following the '/' the user has to write the start Date,
+                            the final Date (in format yyyy-mm-dd), and the State all separated by '/'. It will return all the information from the
+                            available hotels join with its Available Rooms in that period. For example: <br>
+                            http://localhost:3000/Booking/2018-11-26/2018-11-28/MADHYA%20PRADESH will return every available
+                            hotel from November 26th/2018 to November 28th/2018 in the state of Madhya Pradesh.
+                    </li>     
+                    <li>app.post('/Booking', booking.create);
+                            <p>For making a booking at an hotel (Funcionality #6).<br><br>
+                            It's called in http://localhost:3000/Booking. All the information must be written in the body text and 
+                            the users collection must be listening (hotelID, userID, startDate, finalDate,
+                            rooms). It will return the reservationID or a message in case that there were no rooms available in
+                            that hotel during that period.       
+                    </li>                      
+                </ul>
+            </p>
+        </div>
+        <p>We also give the possibility of getting all the documents stored in each collection in http://localhost:3000/CollectionName. 
+            CollectionName must be the name of the collection starting with capital letter and in singular form (Hotel, User, Company, Booking).
+        </p>
+        <div id="footer">
+            <p>Developed by: Álvaro Anaya, Oskhar Arrieta, Nicolás Morales</p>
+        </div>
+    </body>
+</html>

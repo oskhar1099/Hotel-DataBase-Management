@@ -1,0 +1,10 @@
+[
+{ 
+    "_id" : ObjectId("5bbbfc16691a153bf4e5ceaa"), 
+    "password" : "9910mik576", 
+    "name" : "Beto", 
+    "lastName" : "Barrios", 
+    "address" : "K51B #98-105", 
+    "email" : "elbetob@gmail.com"
+}
+]

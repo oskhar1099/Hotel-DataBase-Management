@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5bb6ff5c4149333c7ce61517"), 
+    "hotelID" : "5ba9cb3fe54d092d54714193", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(13)
+}
+{ 
+    "_id" : ObjectId("5bb80fd24497162328baa323"), 
+    "hotelID" : "5ba9cb3fe54d092d54714193", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(10)
+}
+{ 
+    "_id" : ObjectId("5bb819b1bcf8ed2c0c5fa54c"), 
+    "hotelID" : "5ba9cb3fe54d092d54714193", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(15)
+}
+{ 
+    "_id" : ObjectId("5bb81ae7bcf8ed2c0c5fa54d"), 
+    "hotelID" : "5ba9cb3fe54d092d547141aa", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(15)
+}
+{ 
+    "_id" : ObjectId("5bb81c962cf09a1f48d0d1f6"), 
+    "hotelID" : "5ba9cb3fe54d092d54714193", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(4)
+}
+{ 
+    "_id" : ObjectId("5bb8f3562741ee35c0077863"), 
+    "hotelID" : "5ba9cb3fe54d092d54714193", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(1)
+}
+{ 
+    "_id" : ObjectId("5bbea4d4b9327945c854530d"), 
+    "hotelID" : "5ba9cb3fe54d092d547141a6", 
+    "userID" : "5bbbfc16691a153bf4e5ceaa", 
+    "startDate" : "2018-11-28", 
+    "finalDate" : "2018-11-30", 
+    "rooms" : NumberInt(8)
+}

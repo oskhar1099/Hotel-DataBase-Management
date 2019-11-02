@@ -1,0 +1,4515 @@
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714192"), 
+    "HOTELNAME" : "Raheem Residency", 
+    "EMAILID" : "contact@raheemresidency.com", 
+    "Address" : "\"20/1100Beach Road, Alleppey West - 688 012, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0477-2230767", 
+    "Fax" : "0477-2239767", 
+    "Website" : "www.raheemresidency.com", 
+    "Type" : "Heritage Classic", 
+    "Rooms" : NumberInt(10), 
+    "Size" : "Small", 
+    "Latitude" : 9.50029, 
+    "Longitude" : 76.31742
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714193"), 
+    "HOTELNAME" : "Noor Us Sabah Palace", 
+    "EMAILID" : "contact@noorussabahpalace.com/reservations@nusp.in", 
+    "Address" : "\"V.I.P.RoadKoh-E-Fiza, Bhopal - 462001, MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "0755-4223333/4239996", 
+    "Fax" : "0755-4227777", 
+    "Website" : "www.noorussabahpalace.com", 
+    "Type" : "Heritage Classic", 
+    "Rooms" : NumberInt(57), 
+    "Size" : "Medium", 
+    "Latitude" : 23.26038, 
+    "Longitude" : 77.37497
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714194"), 
+    "HOTELNAME" : "The Panjim Inn ", 
+    "EMAILID" : "visalam@cghearth.com", 
+    "Address" : "\"31-ST JANUARY ROAD, FONTAINHAS, PANAJI, Panaji , GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "4564277301", 
+    "Fax" : "4565273111", 
+    "Website" : "www.cghearth.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(15), 
+    "Size" : "Small", 
+    "Latitude" : 15.49623, 
+    "Longitude" : 73.83145
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714195"), 
+    "HOTELNAME" : "Balaram Palace Resort", 
+    "EMAILID" : "balarampalaceresort@gmail.com", 
+    "Address" : "\"Chitrassani Village,off Abu Palanpur Highway No.14 Banaskantha, BANASKANTHA, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "07926575286, 2657638", 
+    "Fax" : "7926578412", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(22), 
+    "Size" : "Small", 
+    "Latitude" : 24.27704, 
+    "Longitude" : 72.49521
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714196"), 
+    "HOTELNAME" : "Nilambag Palace Hotel", 
+    "EMAILID" : "reservation@nilambagpalace.com", 
+    "Address" : "\"Bhavnagar, Bhavnagar, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "02782424241, 2429323", 
+    "Fax" : "2782428072", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(28), 
+    "Size" : "Small", 
+    "Latitude" : 21.77006, 
+    "Longitude" : 72.1459
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714197"), 
+    "HOTELNAME" : "The Fort Ramgarh", 
+    "EMAILID" : "thefortramgarh@gmail.com", 
+    "Address" : "\"Ramgarh, Panchkula On NH - 73 Delhi Shimla Highway, Near Chandigarh, Panchkula Distt., HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "01733253072-75, 9814", 
+    "Fax" : "NA", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(12), 
+    "Size" : "Small", 
+    "Latitude" : 30.64303, 
+    "Longitude" : 76.88872
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714198"), 
+    "HOTELNAME" : "The Judges Court", 
+    "EMAILID" : "eries@vsnl.com/info@judgescourt.com", 
+    "Address" : "\"Heritage VillageParagpur, Distt. - Kangra - 177107, HIMACHAL PRADESH\"", 
+    "State" : "HIMACHAL PRADESH", 
+    "Phone" : "01970-245035/245335", 
+    "Fax" : "01970-245823", 
+    "Website" : "www.judgescourt.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(10), 
+    "Size" : "Small", 
+    "Latitude" : 31.81011, 
+    "Longitude" : 76.20165
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714199"), 
+    "HOTELNAME" : "The Palace", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"Chail, Solan,HIMACHAL PRADESH\"", 
+    "State" : "HIMACHAL PRADESH", 
+    "Phone" : "1772652704", 
+    "Fax" : "1772652206", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(31), 
+    "Size" : "Small", 
+    "Latitude" : 30.96971, 
+    "Longitude" : 77.19823
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471419a"), 
+    "HOTELNAME" : "The Castle Naggar", 
+    "EMAILID" : "castle@hptddc.in/kullu@hptdc.in", 
+    "Address" : "\"Naggar, Distt. Kullu - 175130, HIMACHAL PRADESH\"", 
+    "State" : "HIMACHAL PRADESH", 
+    "Phone" : "1902248316", 
+    "Fax" : "1902223429", 
+    "Website" : "wwwhptdc.nic.in", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(17), 
+    "Size" : "Small", 
+    "Latitude" : 32.11238, 
+    "Longitude" : 77.16498
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471419b"), 
+    "HOTELNAME" : "Hotel Cherthala House", 
+    "EMAILID" : "housecherthala@hotmail.com", 
+    "Address" : "\"Court JunctionEast of P.M.C. - 5, cherthala - 688 524, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0475-2223688", 
+    "Fax" : "", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(5), 
+    "Size" : "Small", 
+    "Latitude" : 9.69094, 
+    "Longitude" : 76.33775
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471419c"), 
+    "HOTELNAME" : "Heritaga Methanam", 
+    "EMAILID" : "heritagemethanam@gmail.com/info@heritagemethanam.com", 
+    "Address" : "\"K P XI / 298Near Perumpadappu, Kumbalanghi Bridge, Kumbalanghi P.O., Kochi - 682 007, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4842248284", 
+    "Fax" : "4842248284", 
+    "Website" : "www.heritagemethanam.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(7), 
+    "Size" : "Small", 
+    "Latitude" : 9.90226, 
+    "Longitude" : 76.28211
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471419d"), 
+    "HOTELNAME" : "Old Lighthouse Bristow Hotel ", 
+    "EMAILID" : "reservations@oldlighthousehotel.com", 
+    "Address" : "\"Beach Road Next to SBI Training Center Fort Kochi , Cochin , KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4843050102", 
+    "Fax" : "NA", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(11), 
+    "Size" : "Small", 
+    "Latitude" : 9.96793, 
+    "Longitude" : 76.24241
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471419e"), 
+    "HOTELNAME" : "Hotel Le Colonial ", 
+    "EMAILID" : "lecolonial@dataone.in", 
+    "Address" : "\"1/215, Church Road, Vasco-da-Gama Square, Fort Cochin , KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4842217181", 
+    "Fax" : "4842217184", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(8), 
+    "Size" : "Small", 
+    "Latitude" : 9.96557, 
+    "Longitude" : 76.23976
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471419f"), 
+    "HOTELNAME" : "Kunnathur Mana Ayurveda Heritage", 
+    "EMAILID" : "mail@kmaheritage.com", 
+    "Address" : "\"Door No.VIII/666 Punnayurkulam P.O. Thrissur Dist, Kerala, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0487 2547552, 254755", 
+    "Fax" : "4872547554", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(7), 
+    "Size" : "Small", 
+    "Latitude" : 10.67084, 
+    "Longitude" : 76.00166
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a0"), 
+    "HOTELNAME" : "Old Harbour Hotel", 
+    "EMAILID" : "raintree@fortcochin.com", 
+    "Address" : "\"No-1/328, Tower Road, Fort Kochi , Kochi , KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4842218006", 
+    "Fax" : "NA", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(13), 
+    "Size" : "Small", 
+    "Latitude" : 9.96731, 
+    "Longitude" : 76.24298
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a1"), 
+    "HOTELNAME" : "Coconut Lagoon", 
+    "EMAILID" : "coconutlagoon@cghearth.com", 
+    "Address" : "\"P.O. Box No. 2Kumarakom, Kottayam - 686563, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0481-2524491-2524373", 
+    "Fax" : "0481-2524495", 
+    "Website" : "www.cghearth.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(36), 
+    "Size" : "Small", 
+    "Latitude" : 9.59337, 
+    "Longitude" : 76.43358
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a2"), 
+    "HOTELNAME" : "Beach Hotel", 
+    "EMAILID" : "info@beachheritage.com", 
+    "Address" : "\"(Beach Heritage Inn (P) Ltd.)Beach Road, Kozhikode - 673032, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0495-2762055-57", 
+    "Fax" : "0495-2365363", 
+    "Website" : "www.beachheritage.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(6), 
+    "Size" : "Small", 
+    "Latitude" : 11.25112, 
+    "Longitude" : 75.77151
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a3"), 
+    "HOTELNAME" : "Palakkad Heritage Hotels", 
+    "EMAILID" : "info@palakkadheritagehotel.com", 
+    "Address" : "\"Koduvayur P.O.Palakkad, Dist., KERALA \"", 
+    "State" : "KERALA", 
+    "Phone" : "4923252143", 
+    "Fax" : "4923252144", 
+    "Website" : "www.palakkadheritagehotel.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(5), 
+    "Size" : "Small", 
+    "Latitude" : 10.68793, 
+    "Longitude" : 76.66021
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a4"), 
+    "HOTELNAME" : "Somatheeram Ayurvedic Beach Resort (P) Ltd.", 
+    "EMAILID" : "mail@somatheeram.in", 
+    "Address" : "\"P.O. ChowaraVia Balaramapuram, Thiruvananthapuram - 695501, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-2268101", 
+    "Fax" : "0471-2267600", 
+    "Website" : "www.somatheeram.in", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(42), 
+    "Size" : "Small", 
+    "Latitude" : 8.43089, 
+    "Longitude" : 77.0455
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a5"), 
+    "HOTELNAME" : "The Hillway Heritage", 
+    "EMAILID" : "mail@hillwayhotels.com", 
+    "Address" : "\"Opp. Police Station, State Highway - 1Kilimanoor P.O., Thiruvananthapuram - 695601, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4702673555", 
+    "Fax" : "NA", 
+    "Website" : "www.hillwayhotels.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(6), 
+    "Size" : "Small", 
+    "Latitude" : 8.7794, 
+    "Longitude" : 76.84725
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a6"), 
+    "HOTELNAME" : "Ahilya Fort ", 
+    "EMAILID" : "info@ahilyafort.com", 
+    "Address" : "\"Ahilya Fort, Maheshwar, W Nimar , Bhopal , MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "7283273329", 
+    "Fax" : "NA", 
+    "Website" : "www.ahilyafort.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(15), 
+    "Size" : "Small", 
+    "Latitude" : 22.17924, 
+    "Longitude" : 75.58448
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a7"), 
+    "HOTELNAME" : "Hotel Rock End Manor ", 
+    "EMAILID" : "info@mptourism.com", 
+    "Address" : "\"Pachmarhi Distt. ,HOSHANGABAD , MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "7552774340", 
+    "Fax" : "7552779476", 
+    "Website" : "www.mptourism.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(6), 
+    "Size" : "Small", 
+    "Latitude" : 22.47417, 
+    "Longitude" : 78.43389
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a8"), 
+    "HOTELNAME" : "Satpura Retreat", 
+    "EMAILID" : "satpura@mptourism.com", 
+    "Address" : "\"Pachmarhi, Dist. Hosangabad, MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "07578-252097", 
+    "Fax" : "NA", 
+    "Website" : "www.mptourism.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(6), 
+    "Size" : "Small", 
+    "Latitude" : 22.47417, 
+    "Longitude" : 78.43389
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141a9"), 
+    "HOTELNAME" : "Hotel Sheesh Mahal ", 
+    "EMAILID" : "info@mptourism.com", 
+    "Address" : "\"MPSTDC, Orchha, Tikamgarh Dist. , MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "7552774340", 
+    "Fax" : "7552779476", 
+    "Website" : "www.mptourism.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(8), 
+    "Size" : "Small", 
+    "Latitude" : 25.35276, 
+    "Longitude" : 78.63931
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141aa"), 
+    "HOTELNAME" : "Jehan Numa Palace Hotel ", 
+    "EMAILID" : "NA", 
+    "Address" : "\"157, SHAMLA HILL(M.P) , Bhopal , MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "755661100", 
+    "Fax" : "755661720", 
+    "Website" : "www.hoteljehanumapalace.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(98), 
+    "Size" : "Medium", 
+    "Latitude" : 23.24703, 
+    "Longitude" : 77.39549
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ab"), 
+    "HOTELNAME" : "LE DUPLEIX ", 
+    "EMAILID" : "gmldp@sarovarhotels.com", 
+    "Address" : "\"(unit of auberge Heritage Hotels) 5, CASERNE STREET , Pondicherry, PONDICHERRY\"", 
+    "State" : "PONDICHERRY", 
+    "Phone" : "4132666001", 
+    "Fax" : "4132334258", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(21), 
+    "Size" : "Small", 
+    "Latitude" : 11.93335, 
+    "Longitude" : 79.83123
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ac"), 
+    "HOTELNAME" : "Calve", 
+    "EMAILID" : "whclve@gmail.com/calve@vsnl.net", 
+    "Address" : "\"A Heritage HotelOld No. 36, New No. 44, Vysial Street, Puducherry - 605 001, PUDUCHERRY\"", 
+    "State" : "", 
+    "Phone" : "0413-2224103-2223738", 
+    "Fax" : "413-2222613", 
+    "Website" : "www.calve.in", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(11), 
+    "Size" : "Small", 
+    "Latitude" : 11.93791, 
+    "Longitude" : 79.82954
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ad"), 
+    "HOTELNAME" : "Welcome Heritage, Khimsar Fort", 
+    "EMAILID" : "reservation@khimsar.com", 
+    "Address" : "\"Khimsar, RAJASTHAN \"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "1585262345", 
+    "Fax" : "1585262228", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(67), 
+    "Size" : "Medium", 
+    "Latitude" : 26.97173, 
+    "Longitude" : 73.4079
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ae"), 
+    "HOTELNAME" : "The Bagh ", 
+    "EMAILID" : "contact@thefortramgarh.com", 
+    "Address" : "\"Agra Achnara Road Pucca Bagh Bharatpur, Bharatpur, RAJASTHAN \"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "1733253072", 
+    "Fax" : "1733253072", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(29), 
+    "Size" : "Small", 
+    "Latitude" : 27.65259, 
+    "Longitude" : 77.15931
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141af"), 
+    "HOTELNAME" : "Gajner Palace", 
+    "EMAILID" : "egmnr@gajner.hrhindia.com", 
+    "Address" : "\"P.O. GajnerTehsil : Kolayat, Bikaner - 334001, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "01534-275061-9", 
+    "Fax" : "01534-275060", 
+    "Website" : "www.hrhindia.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(45), 
+    "Size" : "Small", 
+    "Latitude" : 27.83738, 
+    "Longitude" : 72.95405
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b0"), 
+    "HOTELNAME" : "The Laxmi Niwas Palace ", 
+    "EMAILID" : "panjimin@bsnl.in", 
+    "Address" : "\"(A Unit of Golden Triangle Fort and Palace Pvt. Ltd.) Dr. Karni Singhji Road ,Bikaner ,RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "8322226523", 
+    "Fax" : "8322435220", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(24), 
+    "Size" : "Small", 
+    "Latitude" : 28.1472, 
+    "Longitude" : 73.1997
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b1"), 
+    "HOTELNAME" : "Chomu Palace", 
+    "EMAILID" : "gm@chomupalacehotel.com/info@chomupalacehotel.com", 
+    "Address" : "\"Near Main ChomuBus Stand, Chomu - 303702, RAJASTHAN\"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "01423-300400", 
+    "Fax" : "01423-300400", 
+    "Website" : "www.chomupalacehotel.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(58), 
+    "Size" : "Medium", 
+    "Latitude" : 27.16601, 
+    "Longitude" : 75.7235
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b2"), 
+    "HOTELNAME" : "Bissau Palace ", 
+    "EMAILID" : "bissau@sancharnet.in", 
+    "Address" : "\"Outside Chandpole Gate , Jaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "1412304371", 
+    "Fax" : "1412304628", 
+    "Website" : "www.bissaupalace.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(50), 
+    "Size" : "Small", 
+    "Latitude" : 24.58058, 
+    "Longitude" : 73.67841
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b3"), 
+    "HOTELNAME" : "Deogarh Resorts", 
+    "EMAILID" : "deogarh@datainfosys.net", 
+    "Address" : "\"Deogarh MahalP.O. Deogarh Madariya, Distt. Rajsamand - 313331, RAJASTHAN\"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "02904-252777", 
+    "Fax" : "02904-252555", 
+    "Website" : "www.deogarhmahal.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(45), 
+    "Size" : "Small", 
+    "Latitude" : 25.52038, 
+    "Longitude" : 74.01027
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b4"), 
+    "HOTELNAME" : "Shikarbadi Hotel", 
+    "EMAILID" : "shikarbadi@hrhhotels.com", 
+    "Address" : "\"Goverdhan Vilas, Udaipur - 313001, RAJASTHAN\"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "0294-2583200/04", 
+    "Fax" : "0294-2584841", 
+    "Website" : "www.hrhhotels.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(25), 
+    "Size" : "Small", 
+    "Latitude" : 24.59727, 
+    "Longitude" : 73.71623
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b5"), 
+    "HOTELNAME" : "Welcom Heritage - Koolwal Kothi", 
+    "EMAILID" : "indralokhotels@hotmail.com/holidays@welcomheritagehotels.com", 
+    "Address" : "\"House No. 40,Near Government Hospital RoadNawal Garh District, Jhunjhunu, RAJASTHAN\"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "01594-225817", 
+    "Fax" : "01594-225818", 
+    "Website" : "www.welcomheritagehotels.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(10), 
+    "Size" : "Small", 
+    "Latitude" : 27.85342, 
+    "Longitude" : 75.27511
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b6"), 
+    "HOTELNAME" : "Ajit Bhawan", 
+    "EMAILID" : "reservations@ajitbhawan.com", 
+    "Address" : "\"Near Circuit House, Jodhpur - 342 006, RAJASTHAN\"", 
+    "State" : "RAJASTHAN ", 
+    "Phone" : "0291-2513333, 251141", 
+    "Fax" : "0291-2510674", 
+    "Website" : "www.ajitbhawan.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(70), 
+    "Size" : "Medium", 
+    "Latitude" : 26.2832, 
+    "Longitude" : 73.03863
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b7"), 
+    "HOTELNAME" : "Hotel Samode Palace", 
+    "EMAILID" : "reservations@samode.com", 
+    "Address" : "\"Village Samode, Dist. Jaipur - 303806, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "01423-240014", 
+    "Fax" : "01423-240023", 
+    "Website" : "www.samode.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(43), 
+    "Size" : "Small", 
+    "Latitude" : 27.23982, 
+    "Longitude" : 75.83737
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b8"), 
+    "HOTELNAME" : "Raj Niwas Palace", 
+    "EMAILID" : "info@dholpurpalace.com", 
+    "Address" : "\"National Highway-3, Dholpur - 328 001, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "05642-220216", 
+    "Fax" : "05642-224888", 
+    "Website" : "www.dholpurpalace.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 26.69684, 
+    "Longitude" : 77.88977
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141b9"), 
+    "HOTELNAME" : "Hotel Castle Mandawa Pvt.Ltd.", 
+    "EMAILID" : "reservation@castlemandawa.com/castle@datainfosys.net", 
+    "Address" : "\"MandawaJhunjhunu District, Shekhawati - 333704, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "0141-2371194/2374112", 
+    "Fax" : "0141-2372084", 
+    "Website" : "www.castlemandawa.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(70), 
+    "Size" : "Medium", 
+    "Latitude" : 28.05489, 
+    "Longitude" : 75.14752
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ba"), 
+    "HOTELNAME" : "Rohet Garh", 
+    "EMAILID" : "rohethouse@dataone.in", 
+    "Address" : "\"Village P.O RohetDistt. Pali, Rajasthan, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "2936268231", 
+    "Fax" : "2912649368", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(34), 
+    "Size" : "Small", 
+    "Latitude" : 25.78891, 
+    "Longitude" : 73.32858
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141bb"), 
+    "HOTELNAME" : "Lake Pichola Hotel", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"Piplia Haveli, Out Side ChandpoleUdaipur, Rajasthan, Udaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "2942431197", 
+    "Fax" : "9242430575", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(32), 
+    "Size" : "Small", 
+    "Latitude" : 24.58162, 
+    "Longitude" : 73.6769
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141bc"), 
+    "HOTELNAME" : "The Ramgarh Lodge", 
+    "EMAILID" : "ramgarh.jaipur@tajhotels.com", 
+    "Address" : "\"Ramgarh LakeJamwa Ramgarh, Jaipur - 303109, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "01426-214027/214097", 
+    "Fax" : "01426-252079", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(14), 
+    "Size" : "Small", 
+    "Latitude" : 27.02043, 
+    "Longitude" : 76.01158
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141bd"), 
+    "HOTELNAME" : "Hotel Indra Villas ", 
+    "EMAILID" : "info@indravilasalsisar.com", 
+    "Address" : "\"A unit of Desert Heritage Resorts Pvt. Ltd. Ward No.2, Village Alsisar , JHUNJHUNU , RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1595275567", 
+    "Fax" : "1595275567", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(43), 
+    "Size" : "Small", 
+    "Latitude" : 28.34241, 
+    "Longitude" : 75.29615
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141be"), 
+    "HOTELNAME" : "Singhasan Haveli", 
+    "EMAILID" : "info@singhasanhaveli.com", 
+    "Address" : "\"Goenka Chowk, Mandawa,Dist., JHUNJHUNU, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1126124069", 
+    "Fax" : "1126124073", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(26), 
+    "Size" : "Small", 
+    "Latitude" : 28.05489, 
+    "Longitude" : 75.14752
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141bf"), 
+    "HOTELNAME" : "Fort Khejarla", 
+    "EMAILID" : "khejarlafort@gmail.com", 
+    "Address" : "\"(Aunit of Bhandari Heritage Pvt. Ltd.)Village Khejarla, Via Bilara, Distt. Jodhpur - 342601, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "02930-258485 - 25848", 
+    "Fax" : "02930-258485", 
+    "Website" : "www.jodhpurforkhejarla.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(38), 
+    "Size" : "Small", 
+    "Latitude" : 26.33335, 
+    "Longitude" : 73.68415
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c0"), 
+    "HOTELNAME" : "Sardargarh Heritage Hotel ", 
+    "EMAILID" : "hotelmandawa@yahoo.co.in", 
+    "Address" : "\"Sardargarh Fort, Village-Lawa Sardargarh Sardargarh, Dist:-Rajsamand , Rajsamand , RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1592223137", 
+    "Fax" : "1592223137", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(24), 
+    "Size" : "Small", 
+    "Latitude" : 29.37838, 
+    "Longitude" : 73.76296
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c1"), 
+    "HOTELNAME" : "The Sawai Madhopur Lodge", 
+    "EMAILID" : "vivanta.sawaimadhopur@tajhotels.com", 
+    "Address" : "\"Ranthambore National Park Road, Sawai Madhopur - 302 005, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "07462-220541", 
+    "Fax" : "07462-220718", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(36), 
+    "Size" : "Small", 
+    "Latitude" : 26.01467, 
+    "Longitude" : 76.35754
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c2"), 
+    "HOTELNAME" : "Karni Bhawan Palace ", 
+    "EMAILID" : "karnihotels@satam.net.in", 
+    "Address" : "\"Gandhi Colony Bikaner ,Bikaner ,RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1512524701", 
+    "Fax" : "1512522408", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(12), 
+    "Size" : "Small", 
+    "Latitude" : 28.03708, 
+    "Longitude" : 73.33467
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c3"), 
+    "HOTELNAME" : "Norkhill Hotel ", 
+    "EMAILID" : "norkhill@elginhotels.com", 
+    "Address" : "\"Stadium Road, Gangtok , SIKKIM\"", 
+    "State" : "SIKKIM", 
+    "Phone" : "3592205637", 
+    "Fax" : "3592205639", 
+    "Website" : "www.elginhotels.com", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(25), 
+    "Size" : "Small", 
+    "Latitude" : 27.33153, 
+    "Longitude" : 88.61397
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c4"), 
+    "HOTELNAME" : "Visalam", 
+    "EMAILID" : "visalam@cghearth.com", 
+    "Address" : "\"7/1/143 LOCAL FUND ROAD, KANADUKATHAN KARAIKUDI, TAMIL NADU, KARAIKUDI, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "04565277301, 2", 
+    "Fax" : "4565273111", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(15), 
+    "Size" : "Small", 
+    "Latitude" : 10.07302, 
+    "Longitude" : 78.75334
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c5"), 
+    "HOTELNAME" : "Hotel Fairhavens Holiday Home", 
+    "EMAILID" : "fairhavens@rediffmail.com", 
+    "Address" : "\"Adacent to Head Post Office Mallital, Nainital, UTTARAKHAND\"", 
+    "State" : "UTTARAKHAND", 
+    "Phone" : "5942236057", 
+    "Fax" : "5942236604", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(30), 
+    "Size" : "Small", 
+    "Latitude" : 29.39286, 
+    "Longitude" : 79.4522099
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c6"), 
+    "HOTELNAME" : "The Naini Retreat", 
+    "EMAILID" : "info@leisurehotels.co.in/bookings@leisurehotels.in", 
+    "Address" : "\"Ayarapatta Sloppes, Nainital - 263001, UTTARAKHAND\"", 
+    "State" : "UTTARAKHAND", 
+    "Phone" : "05942-235105", 
+    "Fax" : "05942-235103", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(32), 
+    "Size" : "Small", 
+    "Latitude" : 29.39286, 
+    "Longitude" : 79.4522099
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c7"), 
+    "HOTELNAME" : "The Elgin Hotel", 
+    "EMAILID" : "reservation@elginhotels.com", 
+    "Address" : "\"18, H.D. Lama Road, P.O. Darjeeling, WEST BENGAL\"", 
+    "State" : "WEST BENGAL", 
+    "Phone" : "3542257226", 
+    "Fax" : "3542254267", 
+    "Website" : "NA", 
+    "Type" : "Heritage Basic", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 27.04251, 
+    "Longitude" : 88.26617
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c8"), 
+    "HOTELNAME" : "Taj Falaknuma Palace ", 
+    "EMAILID" : "falaknuma.hyderabad@tajhotels.com", 
+    "Address" : "\"Engine Bowli, Falaknuma , Hyderabad, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "4066298585", 
+    "Fax" : "4066298586", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(60), 
+    "Size" : "Medium", 
+    "Latitude" : 17.33712, 
+    "Longitude" : 78.46781
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141c9"), 
+    "HOTELNAME" : "ITC HOTEL KAKATIYA", 
+    "EMAILID" : "itckakatiya@itchotel.in", 
+    "Address" : "\"6-3-1187,BEGUMPETnull, Hyderabad, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "402340032", 
+    "Fax" : "4023401045", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(188), 
+    "Size" : "Large", 
+    "Latitude" : 17.43083, 
+    "Longitude" : 78.44484
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ca"), 
+    "HOTELNAME" : "Eros Hotel Managed by Hilton", 
+    "EMAILID" : "nehruplace.reservations@hilton.com", 
+    "Address" : "\"S-1American Plaza, International Trade Tower, Nehru Place, New Delhi - 110 019, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-41223344", 
+    "Fax" : "011-26224288", 
+    "Website" : "www3.hilton.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(216), 
+    "Size" : "Large", 
+    "Latitude" : 28.55079, 
+    "Longitude" : 77.2555
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141cb"), 
+    "HOTELNAME" : "The Ashok", 
+    "EMAILID" : "ashoknd@ndb.vsnl.net.in", 
+    "Address" : "\"50-BChanakyapuri, New Delhi - 110021, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-26110101", 
+    "Fax" : "011-26873216", 
+    "Website" : "www.theashok.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(550), 
+    "Size" : "Large", 
+    "Latitude" : 28.5905, 
+    "Longitude" : 77.18173
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141cc"), 
+    "HOTELNAME" : "Hotel Imperial", 
+    "EMAILID" : "luxury@theimperialindia.com", 
+    "Address" : "\"Janpath, New Delhi - 110001, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-23341234", 
+    "Fax" : "011-23342255", 
+    "Website" : "www.theimperialindia.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(233), 
+    "Size" : "Large", 
+    "Latitude" : 28.62516, 
+    "Longitude" : 77.2193099
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141cd"), 
+    "HOTELNAME" : "Hyatt Regency Delhi", 
+    "EMAILID" : "delhi.regency@hyatt.com", 
+    "Address" : "\"Bhikaji Cama Place, New Delhi - 110066, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-26791234", 
+    "Fax" : "011-26791017", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(508), 
+    "Size" : "Large", 
+    "Latitude" : 28.56964, 
+    "Longitude" : 77.1865
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ce"), 
+    "HOTELNAME" : "ITC-The Maurya", 
+    "EMAILID" : "reservations.itcmaurya@itchotels.in", 
+    "Address" : "\"ITC LimitedDiplomatic Enclave, New Delhi - 110021, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-26112233", 
+    "Fax" : "011-26113333", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(440), 
+    "Size" : "Large", 
+    "Latitude" : 28.68699, 
+    "Longitude" : 77.30925
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141cf"), 
+    "HOTELNAME" : "Le Meridien Hotel", 
+    "EMAILID" : "info@lemeridien-newdelhi.com", 
+    "Address" : "\"8, Windsor Place Janpath, New Delhinull, New Delhi, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1123710101", 
+    "Fax" : "1123714545", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(358), 
+    "Size" : "Large", 
+    "Latitude" : 28.60382, 
+    "Longitude" : 77.21791
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d0"), 
+    "HOTELNAME" : "Taj Palace Hotel ", 
+    "EMAILID" : "palace.delhi@tajhotels.com", 
+    "Address" : "\"Sardar Patel Marg , New Delhi ,DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1126110202", 
+    "Fax" : "1126110808", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(409), 
+    "Size" : "Large", 
+    "Latitude" : 28.60158, 
+    "Longitude" : 77.17975
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d1"), 
+    "HOTELNAME" : "The Lalit", 
+    "EMAILID" : "newdelhi@thelalit.com", 
+    "Address" : "\"Barakhamba AvenueConnaught Place,New Delhi - 110001, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-44447777", 
+    "Fax" : "011-44441234", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(457), 
+    "Size" : "Large", 
+    "Latitude" : 28.62859, 
+    "Longitude" : 77.22696
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d2"), 
+    "HOTELNAME" : "The Oberoi -  New Delhi", 
+    "EMAILID" : "reservations@oberoigroup.com", 
+    "Address" : "\"Dr. Zakir Hussain Marg, New Delhi - 110003,DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-24363030", 
+    "Fax" : "011-24360484", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(283), 
+    "Size" : "Large", 
+    "Latitude" : 28.60107, 
+    "Longitude" : 77.23819
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d3"), 
+    "HOTELNAME" : "Aman, New Delhi", 
+    "EMAILID" : "amannewdelhi@amanresorts.com", 
+    "Address" : "\"Lodhi Road, New Delhi - 110003, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1143633333", 
+    "Fax" : "1143633335", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(68), 
+    "Size" : "Medium", 
+    "Latitude" : 28.58751, 
+    "Longitude" : 77.2277
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d4"), 
+    "HOTELNAME" : "The Hotel Leela Palace Kempinski", 
+    "EMAILID" : "reservations.newdelhi@theleela.com", 
+    "Address" : "\"Diplomatic Enclave, New Delhi - 110023,DELHI, National Highway No. 8, New Delhi-110037, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-39331234, 1126779090", 
+    "Fax" : "011-39331235", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(260), 
+    "Size" : "Large", 
+    "Latitude" : 28.7192, 
+    "Longitude" : 77.1505
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d5"), 
+    "HOTELNAME" : "Riviera De Goa Resort", 
+    "EMAILID" : "mail@rivieradegoaresorts.com", 
+    "Address" : "\"Shimer VaddoXimer, Arpora - 403 518, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-6655666", 
+    "Fax" : "0832-2277503", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(104), 
+    "Size" : "Large", 
+    "Latitude" : 15.56775, 
+    "Longitude" : 73.77146
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d6"), 
+    "HOTELNAME" : "Vivanta by Taj - Panaji", 
+    "EMAILID" : "vivanta.panaji@tajhotels.com", 
+    "Address" : "\"Off. D.B. Bandodkar RoadSt. Inez, Panaji - 403001, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-6633636", 
+    "Fax" : "0832-6633600", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(172), 
+    "Size" : "Large", 
+    "Latitude" : 15.50115, 
+    "Longitude" : 73.82596
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d7"), 
+    "HOTELNAME" : "Vivanta by Taj - Holiday", 
+    "EMAILID" : "vivanta.holidayvillage@tajhotels.com", 
+    "Address" : "\"(Earlier known as The Taj Holiday Village)Dando, Candolim, Bardez - 403 515, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-6645858", 
+    "Fax" : "0832-6645502", 
+    "Website" : "www.vivantabytaj.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(142), 
+    "Size" : "Large", 
+    "Latitude" : 15.5135, 
+    "Longitude" : 73.76881
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d8"), 
+    "HOTELNAME" : "Bell Tower Resorts Pvt.Ltd. ", 
+    "EMAILID" : "NA", 
+    "Address" : "\"Bell Tower Resorts Pvt.Ltd. (Retreat by Zuri) Pedda, Uttor Doxi, Varca Salcatte-Goa-403721 , Salcete , GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322772996", 
+    "Fax" : "8322772996", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(106), 
+    "Size" : "Large", 
+    "Latitude" : 15.23559, 
+    "Longitude" : 73.94302
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141d9"), 
+    "HOTELNAME" : "Hotel Ramada Caravela Beach Resort", 
+    "EMAILID" : "caravela.gr@advanihotels.com/reservations.gr@advanihotels.com", 
+    "Address" : "\"Varca Beach, Salcete - 403721, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-6695000", 
+    "Fax" : "0832-6695699", 
+    "Website" : "www.caravelabeachresort.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(200), 
+    "Size" : "Large", 
+    "Latitude" : 15.23559, 
+    "Longitude" : 73.94302
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141da"), 
+    "HOTELNAME" : "Vivanta By Taj- Fort Aguada", 
+    "EMAILID" : "vivanta.fortaguada@tajhotels.com", 
+    "Address" : "\"Sinquerim, Bardez - 403519, GOA \"", 
+    "State" : "GOA", 
+    "Phone" : "0832-6645858", 
+    "Fax" : "0832-6645868", 
+    "Website" : "www.vivantabytaj.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(145), 
+    "Size" : "Large", 
+    "Latitude" : 15.49762, 
+    "Longitude" : 73.76597
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141db"), 
+    "HOTELNAME" : "Th Lalit Golf & Spa Resort Goa", 
+    "EMAILID" : "goaresv@thelalit.com", 
+    "Address" : "\"(Bharat Hotels Ltd.)Raj Baga,Canacona, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322667777", 
+    "Fax" : "8322667711", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(225), 
+    "Size" : "Large", 
+    "Latitude" : 15.00825, 
+    "Longitude" : 74.04329
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141dc"), 
+    "HOTELNAME" : "Resort Rio", 
+    "EMAILID" : "gm@resortrio.com", 
+    "Address" : "\"Resort Rio, Tambudki,Arpora, Bardez, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322267300", 
+    "Fax" : "8322267301", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(82), 
+    "Size" : "Medium", 
+    "Latitude" : 15.56775, 
+    "Longitude" : 73.77146
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141dd"), 
+    "HOTELNAME" : "Hotel Cidade de Goa", 
+    "EMAILID" : "cidadedegoa@cidadedegoa.com", 
+    "Address" : "\"(Unit of Fomento Resorts & Hotels Ltd.), Vainguinim Beach - 403004, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322454545", 
+    "Fax" : "08322454541/42", 
+    "Website" : "www.cidadedegoa.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(205), 
+    "Size" : "Large", 
+    "Latitude" : 15.46372, 
+    "Longitude" : 73.81428
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141de"), 
+    "HOTELNAME" : "Majorda Beach Resort", 
+    "EMAILID" : "acc@majordabeachresortgoa.com", 
+    "Address" : "\"MajordaSalcette, Goa - 403713, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-288111/6681111", 
+    "Fax" : "0832-2881121/2881124", 
+    "Website" : "www.majordabeachresort.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(120), 
+    "Size" : "Large", 
+    "Latitude" : 15.31309, 
+    "Longitude" : 73.91376
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141df"), 
+    "HOTELNAME" : "The Leela Kempinski, Goa", 
+    "EMAILID" : "reservations.goa@theleela.com", 
+    "Address" : "\"MoborCavelossim, Salcette - 403731, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8326621234", 
+    "Fax" : "8322871352", 
+    "Website" : "www.theleela.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(186), 
+    "Size" : "Large", 
+    "Latitude" : 15.17983, 
+    "Longitude" : 73.95007
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e0"), 
+    "HOTELNAME" : "Hotel Trident - Gurgaon", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"Plot No. 443, Udyog ViharPhase - V, Gurgaon - 122016, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-2450505", 
+    "Fax" : "0124-2450606", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(136), 
+    "Size" : "Large", 
+    "Latitude" : 28.50094, 
+    "Longitude" : 77.08476
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e1"), 
+    "HOTELNAME" : "The Leela Kempinski -  Gurgaon", 
+    "EMAILID" : "reservations.gurgaon-delhi@theleela.com", 
+    "Address" : "\"(Ambience Hotels & Resorts Ltd.) Village Nathupur, N.H.-8 Gurgaon, Gurgaon, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "1244771234", 
+    "Fax" : "1244771235", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(412), 
+    "Size" : "Large", 
+    "Latitude" : 28.50908, 
+    "Longitude" : 77.04158
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e2"), 
+    "HOTELNAME" : "The Bristol Hotel", 
+    "EMAILID" : "contact@thebristolhotel.com", 
+    "Address" : "\"Adjacent to DLFQutab Enclave Phase - 1, Gurgaon - 122002, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-2356030", 
+    "Fax" : "0124-2357834", 
+    "Website" : "www.thebristolhotel.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(84), 
+    "Size" : "Medium", 
+    "Latitude" : 28.48384, 
+    "Longitude" : 77.08367
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e3"), 
+    "HOTELNAME" : "Wildflower Hall", 
+    "EMAILID" : "reservations@oberoigroup.com", 
+    "Address" : "\"(Mashobara Resort Limited, A Unit of EIH Limited)Chharabra, Shimla - 171 012, HIMACHAL PRADESH\"", 
+    "State" : "HIMACHAL PRADESH", 
+    "Phone" : "0177-2648585", 
+    "Fax" : "0177-2648686", 
+    "Website" : "www.oberoihotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(85), 
+    "Size" : "Medium", 
+    "Latitude" : 31.09198, 
+    "Longitude" : 77.17441
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e4"), 
+    "HOTELNAME" : "Vivanta by Taj -  Whitefield", 
+    "EMAILID" : "vivanta.whitefield@tajhotels.com", 
+    "Address" : "\"ITBP Whitefield, Bangalore - 560066, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "080-66933333", 
+    "Fax" : "080-66933344", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(199), 
+    "Size" : "Large", 
+    "Latitude" : 12.97935, 
+    "Longitude" : 77.73364
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e5"), 
+    "HOTELNAME" : "Hotel Golden Palms Hotel & Spa", 
+    "EMAILID" : "info@goldenpalmshotel.com", 
+    "Address" : "\"NO-31 & 32 GOLDEN PALMS AVENUE OFF TUMKUR ROAD BANGALORE,  KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8023712222", 
+    "Fax" : "8023710022", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(170), 
+    "Size" : "Large", 
+    "Latitude" : 13.04393, 
+    "Longitude" : 77.51009
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e6"), 
+    "HOTELNAME" : "ITC Hotel Windsor & Towers ", 
+    "EMAILID" : "www.welcomgroup.com", 
+    "Address" : "\"WINDSOR SQUARE, 25 GOLF COURES ROAD, Bangalore , KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "802269898", 
+    "Fax" : "802264941", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(240), 
+    "Size" : "Large", 
+    "Latitude" : 12.99382, 
+    "Longitude" : 77.5849099
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e7"), 
+    "HOTELNAME" : "The Taj West End", 
+    "EMAILID" : "westend.bengalore@tajhotels.com", 
+    "Address" : "\"Race Course Road Bangalore, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8066605660", 
+    "Fax" : "8066605700", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(117), 
+    "Size" : "Large", 
+    "Latitude" : 12.9840199, 
+    "Longitude" : 77.58618
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e8"), 
+    "HOTELNAME" : "Sheraton Banglore at Brigade Gateway", 
+    "EMAILID" : "diwaker.tyagi@shraton.com", 
+    "Address" : "\"26/1, Rajajinagar ExtensionDr. Rajkumar Road, Malleswaram West, Bangalore, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "918041379200", 
+    "Fax" : "918022210748", 
+    "Website" : "www.brigadegroup.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(230), 
+    "Size" : "Large", 
+    "Latitude" : 12.9847, 
+    "Longitude" : 77.5491
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141e9"), 
+    "HOTELNAME" : "The Oberoi Bangalore", 
+    "EMAILID" : "reservations@oberoiblr.com", 
+    "Address" : "\"39 Mahatma Gandhi RoadBanglore-560001, Bangalore, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "918025585858", 
+    "Fax" : "918025585960", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(160), 
+    "Size" : "Large", 
+    "Latitude" : 12.97307, 
+    "Longitude" : 77.61711
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ea"), 
+    "HOTELNAME" : "Vivanta by Taj -  Bangalore", 
+    "EMAILID" : "vivanta.mgroad@tajhotels.com", 
+    "Address" : "\"41/3M.G. Road, Bangalore - 560001, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "0806660 4444", 
+    "Fax" : "0806661 4444", 
+    "Website" : "www.vivantabytaj.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(167), 
+    "Size" : "Large", 
+    "Latitude" : 12.97413, 
+    "Longitude" : 77.61241
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141eb"), 
+    "HOTELNAME" : "Park Plaza", 
+    "EMAILID" : "sonusarmag@gmail.com", 
+    "Address" : "\"NO. 5 Defence Colony,1st main, Indirangar, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "42197330", 
+    "Fax" : "8042452346", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(218), 
+    "Size" : "Large", 
+    "Latitude" : 12.97716, 
+    "Longitude" : 77.6422599
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ec"), 
+    "HOTELNAME" : "Dream Hotel Cochin", 
+    "EMAILID" : "reservations@dreamcochin.com", 
+    "Address" : "\"37/985, C&D, Sahodaran Ayyappan Road Elamkulam Jnction, Kadavanthara cochin-682020, Cochin, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4844129999", 
+    "Fax" : "4844129898", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(150), 
+    "Size" : "Large", 
+    "Latitude" : 9.96716, 
+    "Longitude" : 76.29974
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ed"), 
+    "HOTELNAME" : "Vivanta by Taj - Bekal ", 
+    "EMAILID" : "tkhanna99@gmail.com", 
+    "Address" : "\"A Unit of Khanna Hotels PVt. LTd. BRDC Site No. 5, Kappil Beach P.O. Udma West Kasaragod - 671319, Kasaragod , KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4672265656", 
+    "Fax" : "4672265655", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(73), 
+    "Size" : "Medium", 
+    "Latitude" : 12.50233, 
+    "Longitude" : 74.99092
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ee"), 
+    "HOTELNAME" : "The Lalit Resorts & Spa Bekal", 
+    "EMAILID" : "resvbekal@thelalit.com", 
+    "Address" : "\"Bevoori, Udma, Taluka: Hosedurgh Distt: Kasargod Kerala, Kasaragod , KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4672237777", 
+    "Fax" : "4672237575", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(39), 
+    "Size" : "Small", 
+    "Latitude" : 12.50233, 
+    "Longitude" : 74.99092
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ef"), 
+    "HOTELNAME" : "Vivanta By Taj - Kovalam", 
+    "EMAILID" : "Vivanta.kovalam@tajhotels.com", 
+    "Address" : "\"(Formerly known as Taj Green Cove Kovalam)G V Raja Vattappara Road, Kovalam, Thiruvananthapuram - 695 527, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-6613000", 
+    "Fax" : "0471-2487744", 
+    "Website" : "www.vivantabytaj.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(59), 
+    "Size" : "Medium", 
+    "Latitude" : 8.40476, 
+    "Longitude" : 76.97653
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f0"), 
+    "HOTELNAME" : "Vivanta by - Taj Malabar ", 
+    "EMAILID" : "malabar.cochin@tajhotels.com", 
+    "Address" : "\"Willingdon Island , Cochin , KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4846643000", 
+    "Fax" : "4846643182", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(96), 
+    "Size" : "Medium", 
+    "Latitude" : 9.94417, 
+    "Longitude" : 76.28357
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f1"), 
+    "HOTELNAME" : "The Raviz Kollam", 
+    "EMAILID" : "info@theraviz.com", 
+    "Address" : "\"Kollam Royal Park Hotel And Resorts P LtdMathilil, Kollam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4742751111", 
+    "Fax" : "4742741111", 
+    "Website" : "www.theraviz.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(93), 
+    "Size" : "Medium", 
+    "Latitude" : 8.8869, 
+    "Longitude" : 76.59228
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f2"), 
+    "HOTELNAME" : "Kovalam Resort Private Limited", 
+    "EMAILID" : "reservations.kovalam@theleela.com", 
+    "Address" : "\"The Leela Kovalam,Kerala, Thiruvananthapuram, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4713051234", 
+    "Fax" : "4712481043", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(127), 
+    "Size" : "Large", 
+    "Latitude" : 8.39844, 
+    "Longitude" : 76.98195
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f3"), 
+    "HOTELNAME" : "The Grand Temple View ", 
+    "EMAILID" : "khajraho@thegrandhotels.net", 
+    "Address" : "\"Opp. Circuit House , Khajuraho , MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "786272333", 
+    "Fax" : "786272123", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(47), 
+    "Size" : "Small", 
+    "Latitude" : 24.84748, 
+    "Longitude" : 79.91932
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f4"), 
+    "HOTELNAME" : "Hotel Chandela", 
+    "EMAILID" : "chandela.khajuraho@tajhotels.com", 
+    "Address" : "\"Airport RoadDist. Chhatarpur, Khajuraho - 471606, MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "07686-272355, 272364", 
+    "Fax" : "07686-272365, 272366", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(90), 
+    "Size" : "Medium", 
+    "Latitude" : 24.84748, 
+    "Longitude" : 79.91932
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f5"), 
+    "HOTELNAME" : "Chalet Hotel", 
+    "EMAILID" : "reservations@fourpointsvashi.com", 
+    "Address" : "\"Plot no.39/1 6 to 15 Sector 30 AVashi Navi Mumbai, Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2227817777", 
+    "Fax" : "2227817979", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(118), 
+    "Size" : "Large", 
+    "Latitude" : 19.08171, 
+    "Longitude" : 73.00446
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f6"), 
+    "HOTELNAME" : "Four Seasons Hotel", 
+    "EMAILID" : "reservations.mumbai@fourseasons.com", 
+    "Address" : "\"(Unit of Mogus Estates & Hotels Ltd.) Plot NO.114,Dr.E.Moses Road Worli, Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2266627770", 
+    "Fax" : "2266627437", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(202), 
+    "Size" : "Large", 
+    "Latitude" : 18.99323, 
+    "Longitude" : 72.82048
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f7"), 
+    "HOTELNAME" : "HOTEL SAHARA STAR ", 
+    "EMAILID" : "www.saharastar.com", 
+    "Address" : "\"DOMESTIC AIRPORT, VILE PARLE (E), MUMBAI , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2239895000", 
+    "Fax" : "2239895001", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(210), 
+    "Size" : "Large", 
+    "Latitude" : 19.0973599, 
+    "Longitude" : 72.8532199
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f8"), 
+    "HOTELNAME" : "Hyatt Regency Mumbai", 
+    "EMAILID" : "mumbai.regency@hyatt.com", 
+    "Address" : "\"Sahar Airport RoadAndheri (East), Mumbai - 400 099, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66961234", 
+    "Fax" : "022-66961235", 
+    "Website" : "www.mumbai.regency.hyatt.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(401), 
+    "Size" : "Large", 
+    "Latitude" : 19.103, 
+    "Longitude" : 72.86762
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141f9"), 
+    "HOTELNAME" : "Le Royal Meridien ", 
+    "EMAILID" : "lmmumbai@vsnl.com", 
+    "Address" : "\"SAHAR AIRPORT ROAD ANDHERI (E) , Mumbai , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2228380000", 
+    "Fax" : "2228204399", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(171), 
+    "Size" : "Large", 
+    "Latitude" : 19.103, 
+    "Longitude" : 72.86762
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141fa"), 
+    "HOTELNAME" : "Sun-n-Sand Hotels Pvt. Ltd.", 
+    "EMAILID" : "reservations@sunnsandhotel.com", 
+    "Address" : "\"39Juhu Beach, Mumbai - 400 049, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-26201811-6693888", 
+    "Fax" : "022-26202170", 
+    "Website" : "www.sunnsandhotel.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(120), 
+    "Size" : "Large", 
+    "Latitude" : 19.09594, 
+    "Longitude" : 72.82878
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141fb"), 
+    "HOTELNAME" : "The Taj Mahal Palace & Tower ", 
+    "EMAILID" : "tmhbc.bom@tajhotels.com", 
+    "Address" : "\"Apollo Bunder , Mumbai , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2266653366", 
+    "Fax" : "2266650300", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(565), 
+    "Size" : "Large", 
+    "Latitude" : 18.92001, 
+    "Longitude" : 72.82963
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141fc"), 
+    "HOTELNAME" : "Hotel Le Meridien", 
+    "EMAILID" : "lmpune@lemeridien-pune.com", 
+    "Address" : "\"R.B.M. Road, Pune - 411001, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2026050505", 
+    "Fax" : "2026050506", 
+    "Website" : "www.lemeridien-pune.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(117), 
+    "Size" : "Large", 
+    "Latitude" : 18.53254, 
+    "Longitude" : 73.87747
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141fd"), 
+    "HOTELNAME" : "Hotel ITC Grand Central", 
+    "EMAILID" : "itcgrandcentral@itchotels.in", 
+    "Address" : "\"287, Babasaheb Ambedkar RoadParel,Mumbai-400012, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2224101010", 
+    "Fax" : "2224101111", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(242), 
+    "Size" : "Large", 
+    "Latitude" : 18.99855, 
+    "Longitude" : 72.8374
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141fe"), 
+    "HOTELNAME" : "The Leela Kempinski", 
+    "EMAILID" : "reservations.mumbai@theleela.com", 
+    "Address" : "\"Sahar, Mumbai - 400 059, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66911234", 
+    "Fax" : "022-66911212", 
+    "Website" : "www.theleela.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(393), 
+    "Size" : "Large", 
+    "Latitude" : 19.106, 
+    "Longitude" : 72.86817
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d547141ff"), 
+    "HOTELNAME" : "The Oberoi, Mumbai", 
+    "EMAILID" : "reservations@oberoigroup.com", 
+    "Address" : "\"Nariman Point, Mumbai - 400021, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66325757-6632434", 
+    "Fax" : "022-66324142", 
+    "Website" : "www.oberoihotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(287), 
+    "Size" : "Large", 
+    "Latitude" : 18.92504, 
+    "Longitude" : 72.82396
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714200"), 
+    "HOTELNAME" : "The Westin Mumbai Garden City ", 
+    "EMAILID" : "mumbaigardencity@westin.com", 
+    "Address" : "\"Oberoi Garden City, International Business Park, Off Western Express Highway, Goregaon (East) , Mumbai , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2261470000", 
+    "Fax" : "2261470101", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(269), 
+    "Size" : "Large", 
+    "Latitude" : 19.15524, 
+    "Longitude" : 72.85691
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714201"), 
+    "HOTELNAME" : "Fariyas Resort, Lonavla", 
+    "EMAILID" : "fhrl@fariyas.com", 
+    "Address" : "\"Frichley HillsTungarli, Lonavla - 410401, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "02114-273852-55", 
+    "Fax" : "02114-272080", 
+    "Website" : "www.fariyas.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(105), 
+    "Size" : "Large", 
+    "Latitude" : 18.75459, 
+    "Longitude" : 73.4068099
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714202"), 
+    "HOTELNAME" : "Trident, Nariman Point", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"Nariman Point, Mumbai - 400 021, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66324343", 
+    "Fax" : "022-66325000", 
+    "Website" : "www.tridenthotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(550), 
+    "Size" : "Large", 
+    "Latitude" : 18.9259099, 
+    "Longitude" : 72.81895
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714203"), 
+    "HOTELNAME" : "Taj Lands End", 
+    "EMAILID" : "landsend.mumbai@tajhotels.com", 
+    "Address" : "\"B.J. RoadBand Stand, Bandra (West), Mumbai - 400050, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66681234", 
+    "Fax" : "022-66680957 - 66994", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(493), 
+    "Size" : "Large", 
+    "Latitude" : 19.04329, 
+    "Longitude" : 72.81863
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714204"), 
+    "HOTELNAME" : "Trident -  Bhubaneswar ", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"CB - 1 Nayapalli, Bhubaneshwar , ORISSA\"", 
+    "State" : "ORISSA", 
+    "Phone" : "6742301010", 
+    "Fax" : "6742301302", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(62), 
+    "Size" : "Medium", 
+    "Latitude" : 20.28995, 
+    "Longitude" : 85.81677
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714205"), 
+    "HOTELNAME" : "Hotel Mayfair Lagoon", 
+    "EMAILID" : "lagoon@mayfairhotels.com", 
+    "Address" : "\"8-BJaydev Vihar, Bhubaneswar, ORISSA\"", 
+    "State" : "ORISSA", 
+    "Phone" : "91 674 6660101", 
+    "Fax" : "91 674 2360236", 
+    "Website" : "www.mayfairhotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(102), 
+    "Size" : "Large", 
+    "Latitude" : 20.302, 
+    "Longitude" : 85.81926
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714206"), 
+    "HOTELNAME" : "ISTA Amritsar", 
+    "EMAILID" : "sales@istaamritsar.com/reservations.amritsar@istahotels.com", 
+    "Address" : "\"G.T. Road(Adjoining Alpha One City Centre), Amritsar - 143 001, PUNJAB\"", 
+    "State" : "PUNJAB", 
+    "Phone" : "0183-2708888", 
+    "Fax" : "0183-2700186, 270999", 
+    "Website" : "www.istahotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(248), 
+    "Size" : "Large", 
+    "Latitude" : 31.65528, 
+    "Longitude" : 74.92125
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714207"), 
+    "HOTELNAME" : "Sheraton Rajputana Hotel", 
+    "EMAILID" : "reservations.itcrajputana@itchotels.in", 
+    "Address" : "\"Palace Road, Jaipur-302006, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1415100100", 
+    "Fax" : "1415102102", 
+    "Website" : "sheratonrajputana@itcwelcomgroup.in", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(218), 
+    "Size" : "Large", 
+    "Latitude" : 26.97024, 
+    "Longitude" : 75.763
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714208"), 
+    "HOTELNAME" : "The Oberoi Rajvilas", 
+    "EMAILID" : "reservations@oberoigroup.com", 
+    "Address" : "\"Goner Road, Jaipur - 303012, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1412680101", 
+    "Fax" : "1412680202", 
+    "Website" : "www.oberoihotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(71), 
+    "Size" : "Medium", 
+    "Latitude" : 26.83551, 
+    "Longitude" : 75.89792
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714209"), 
+    "HOTELNAME" : "The Oberoi Udaivilas ", 
+    "EMAILID" : "reservations@oberoigroup.com", 
+    "Address" : "\"Haridas Ji Ki Magri , Udaipur , RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "2942433300", 
+    "Fax" : "2942433200", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(87), 
+    "Size" : "Medium", 
+    "Latitude" : 24.58155, 
+    "Longitude" : 73.6693
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471420a"), 
+    "HOTELNAME" : "Country Inn & Suites By Carlson", 
+    "EMAILID" : "mail@goyalfashions.net", 
+    "Address" : "\"Country Inn & Suites By Carlson (A unit of Shivani Enclaves Pvt.,Khasa Kothi Circle M.I.Road, Jaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "2222686", 
+    "Fax" : "2222193", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(100), 
+    "Size" : "Medium", 
+    "Latitude" : 26.88854, 
+    "Longitude" : 75.81385
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471420b"), 
+    "HOTELNAME" : "The Leela Palace Kempinski", 
+    "EMAILID" : "businesscentre@theleela.com", 
+    "Address" : "\"P.O. Box No. 125Lake Pichola, Udaipur - 313 001, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "0294-6701234", 
+    "Fax" : "0294-6701212", 
+    "Website" : "www.theleela.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(80), 
+    "Size" : "Medium", 
+    "Latitude" : 24.56834, 
+    "Longitude" : 73.68422
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471420c"), 
+    "HOTELNAME" : "JAI MAHAL PALACE HOTEL", 
+    "EMAILID" : "jaimahal.jaipur@tajhotels.com", 
+    "Address" : "\"JACOB ROAD,CIVIL LINES, Jaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1416601111", 
+    "Fax" : "1416601057", 
+    "Website" : "tajhotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(100), 
+    "Size" : "Medium", 
+    "Latitude" : 26.91035, 
+    "Longitude" : 75.78903
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471420d"), 
+    "HOTELNAME" : "Mayfair Spa & Resort", 
+    "EMAILID" : "gangtok@mayfairhotels.com", 
+    "Address" : "\"(Unit of Mayfair Hotels & Resorts (Sikkim) Pvt. Ltd.)Lower Samdur Block, Ranipool - 737135, Gangtok, SIKKIM\"", 
+    "State" : "SIKKIM", 
+    "Phone" : "0359-2250555/666", 
+    "Fax" : "0359-2251009", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(63), 
+    "Size" : "Medium", 
+    "Latitude" : 27.30041, 
+    "Longitude" : 88.5978
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471420e"), 
+    "HOTELNAME" : "Taj Mount Road", 
+    "EMAILID" : "clubhouse.chennai@tajhotels.com/mountroad.chennai@tajhotels.com", 
+    "Address" : "\"No. 2Club House Road, Chennai - 600 002, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-66313131", 
+    "Fax" : "044-66313030", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(220), 
+    "Size" : "Large", 
+    "Latitude" : 13.06136, 
+    "Longitude" : 80.26385
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471420f"), 
+    "HOTELNAME" : "THE PARK ", 
+    "EMAILID" : "tpch@theparkhotels.com", 
+    "Address" : "\"UNIT :APEEJAY -SURRENDRA PARK HOTELS LTD 601, ANNA SALAI , Chennai, TAMIL NADU \"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "4452144000", 
+    "Fax" : "4452144100", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(214), 
+    "Size" : "Large", 
+    "Latitude" : 13.02599, 
+    "Longitude" : 80.23148
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714210"), 
+    "HOTELNAME" : "Vivanta by Taj - Fishermans Cove", 
+    "EMAILID" : "vivanta.fishcove@tajhotels.com", 
+    "Address" : "\"Covelong Beach, Kanchipuram Dist. - 603112, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-67413333", 
+    "Fax" : "044-67413330", 
+    "Website" : "www.vivantabytaj.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(88), 
+    "Size" : "Medium", 
+    "Latitude" : 12.79897, 
+    "Longitude" : 80.24269
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714211"), 
+    "HOTELNAME" : "Taj Coromandel", 
+    "EMAILID" : "coromandel.chennai@tajhotels.com", 
+    "Address" : "\"37Mahatma Gandhi Salai, Nungambakkam, Chennai - 600 034, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-66002827", 
+    "Fax" : "044-66002089", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(205), 
+    "Size" : "Large", 
+    "Latitude" : 13.06281, 
+    "Longitude" : 80.24444
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714212"), 
+    "HOTELNAME" : "Le Royal Meridien Chennai", 
+    "EMAILID" : "reservation@leroyalmeridien-chennai.com", 
+    "Address" : "\"(Owned by Appu Hotels Limited)No. 1, G.S.T. Road, St. Thomas Mount, Chennai - 600 016, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-22314343, 435345", 
+    "Fax" : "044-22314344", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(240), 
+    "Size" : "Large", 
+    "Latitude" : 13.00619, 
+    "Longitude" : 80.20359
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714213"), 
+    "HOTELNAME" : "ITC The Mughal", 
+    "EMAILID" : "reservations.itcmughal@itchotels.in", 
+    "Address" : "\"Fatehabad RoadTajganj, Agra - 282 001, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "0562-4021700", 
+    "Fax" : "0562-2331730", 
+    "Website" : "www.itchotels.in", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(233), 
+    "Size" : "Large", 
+    "Latitude" : 27.15776, 
+    "Longitude" : 78.0498999
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714214"), 
+    "HOTELNAME" : "Jaypee Greens Golf & Spa Resort", 
+    "EMAILID" : "reservation.jggr@jaypeehotels.com", 
+    "Address" : "\"A division of Jaiprakash Associates Ltd. G-Block, Surajpur Kasna Road Gautam Budh Nagar, Greater Noida, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "1206743000", 
+    "Fax" : "1202324720", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(170), 
+    "Size" : "Large", 
+    "Latitude" : 28.46473, 
+    "Longitude" : 77.51232
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714215"), 
+    "HOTELNAME" : "Vivanta by Taj ", 
+    "EMAILID" : "residency.lucknow@tajhotels.com", 
+    "Address" : "\"Vipin Khand Gomti Nagar , Lucknow , UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "522671100", 
+    "Fax" : "522671166", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(110), 
+    "Size" : "Large", 
+    "Latitude" : 26.84997, 
+    "Longitude" : 80.97256
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714216"), 
+    "HOTELNAME" : "Taj Ganges Varanasi", 
+    "EMAILID" : "ganges.varanasi@tajhotels.com", 
+    "Address" : "\"Nadesar Palace GraoundsNadesar, Varanasi - 221002, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "0542-2503001/019", 
+    "Fax" : "0542-2501343", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(130), 
+    "Size" : "Large", 
+    "Latitude" : 25.33669, 
+    "Longitude" : 82.98688
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714217"), 
+    "HOTELNAME" : "Radisson Hotel", 
+    "EMAILID" : "reservations@rdagra.in", 
+    "Address" : "\"Taj East Gate Road, Agra - 282 001, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "0562-4055555", 
+    "Fax" : "0562-4055556", 
+    "Website" : "www.radisson.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(140), 
+    "Size" : "Large", 
+    "Latitude" : 27.16279, 
+    "Longitude" : 78.05798
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714218"), 
+    "HOTELNAME" : "Radisson MBD Hotel", 
+    "EMAILID" : "reservations@radissonmbd.com", 
+    "Address" : "\"Plot No. L-2Sector - 18, Noida - 201 301, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "0120-4300000", 
+    "Fax" : "0120-4303000", 
+    "Website" : "www.radissonblu.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(126), 
+    "Size" : "Large", 
+    "Latitude" : 28.56878, 
+    "Longitude" : 77.3224199
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714219"), 
+    "HOTELNAME" : "Holiday Regency", 
+    "EMAILID" : "info@holidayregency.com", 
+    "Address" : "\"Holiday Regency (A Unit of Omsons Holiday Inn Pvt. ltd)Om Enclave, (KM, Delhi Road , NH-24, Moradabad, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "591301235", 
+    "Fax" : "5913012375", 
+    "Website" : "holidayregency.com", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(74), 
+    "Size" : "Medium", 
+    "Latitude" : 28.6685, 
+    "Longitude" : 77.23112
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471421a"), 
+    "HOTELNAME" : "Jaypee Residency Manor", 
+    "EMAILID" : "jrm@jaypeehotels.com", 
+    "Address" : "\"Barlowganj, Mussoorie, UTTARAKHAND\"", 
+    "State" : "UTTARAKHAND", 
+    "Phone" : "1352631800", 
+    "Fax" : "1352631022", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(90), 
+    "Size" : "Medium", 
+    "Latitude" : 30.43789, 
+    "Longitude" : 78.08656
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471421b"), 
+    "HOTELNAME" : "ITC Sonar", 
+    "EMAILID" : "reservations.itcsonar@itchotels.in", 
+    "Address" : "\"1, JBS Haldane AvenueOpp. Science City, Kolkata-700046, WEST BENGAL\"", 
+    "State" : "WEST BENGAL", 
+    "Phone" : "033-23004516", 
+    "Fax" : "033-23004500", 
+    "Website" : "NA", 
+    "Type" : "5 Star Deluxe", 
+    "Rooms" : NumberInt(239), 
+    "Size" : "Large", 
+    "Latitude" : 22.54191, 
+    "Longitude" : 88.38557
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471421c"), 
+    "HOTELNAME" : "Hotel Ista Hyderabad", 
+    "EMAILID" : "sales@istahyderabad.com", 
+    "Address" : "\"Plot No-7, Road No. 2I.T. Park, Nanakramguda, Gachibowali, Hyderabad - 500019, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "040-44508888", 
+    "Fax" : "040-44509999", 
+    "Website" : "www.anandaspa.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(157), 
+    "Size" : "Large", 
+    "Latitude" : 17.3504, 
+    "Longitude" : 78.5301999
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471421d"), 
+    "HOTELNAME" : "Hotel Novotel Hyderabad", 
+    "EMAILID" : "H6182-re@accor.com", 
+    "Address" : "\"Novoel & HIVV Complex, Near Hitech City , P.O Bag No-1101, Cyberabad Post Office, Hyderabad, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "4066824422", 
+    "Fax" : "4066844422", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(288), 
+    "Size" : "Large", 
+    "Latitude" : 17.45097, 
+    "Longitude" : 78.3803
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471421e"), 
+    "HOTELNAME" : "Novotel Hyderabad Airport ", 
+    "EMAILID" : "reservations@novotelhyderabadairport.com", 
+    "Address" : "\"GMR Hyderabad International Airport Ltd., Rajiv Gandhi International Airport Shamshabad, Ranga Reddy Dist , ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "4066250000", 
+    "Fax" : "4066250001", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(305), 
+    "Size" : "Large", 
+    "Latitude" : 17.24428, 
+    "Longitude" : 78.40543
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471421f"), 
+    "HOTELNAME" : "The Gateway Hotel ", 
+    "EMAILID" : "gateway.visakhapatnam@tajhotels.com", 
+    "Address" : "\"Beach Road, Visakhapatnam , ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "8916623670", 
+    "Fax" : "8912569867", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(95), 
+    "Size" : "Medium", 
+    "Latitude" : 17.71434, 
+    "Longitude" : 83.32341
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714220"), 
+    "HOTELNAME" : "Taj Deccan - Hyderabad", 
+    "EMAILID" : "tdhgm.hyd@tajhotels.com", 
+    "Address" : "\"Road No.1Banjara Hills, Hyderabad - 34, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "4066662323", 
+    "Fax" : "4066661313", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(151), 
+    "Size" : "Large", 
+    "Latitude" : 17.40987, 
+    "Longitude" : 78.4508199
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714221"), 
+    "HOTELNAME" : "Leo Meridian Infrastructure", 
+    "EMAILID" : "info@lmiphl.com", 
+    "Address" : "\"Bommaraspet (Village)Shamirpet Mandal, Ranga Reddy District, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "4066404455", 
+    "Fax" : "4066627744", 
+    "Website" : "www.lmiphl.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(88), 
+    "Size" : "Medium", 
+    "Latitude" : 15.19183, 
+    "Longitude" : 78.52919
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714222"), 
+    "HOTELNAME" : "Hotel Mountview", 
+    "EMAILID" : "mountview@citcochandigarh.com", 
+    "Address" : "\"Sector 10, Chandigarh, CHANDIGARH\"", 
+    "State" : "CHANDIGARH", 
+    "Phone" : "1724671111", 
+    "Fax" : "1722742220", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(155), 
+    "Size" : "Large", 
+    "Latitude" : 30.75259, 
+    "Longitude" : 76.78799
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714223"), 
+    "HOTELNAME" : "Hotel Crowne Plaza Today", 
+    "EMAILID" : "reservations@cpokhla.com", 
+    "Address" : "\"Plot No. 1Community Centre, Phase 1, Okhla, New Delhi - 110 020, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-40687700-17", 
+    "Fax" : "011-41634480", 
+    "Website" : "www.crowneplaza.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(208), 
+    "Size" : "Large", 
+    "Latitude" : 28.53249, 
+    "Longitude" : 77.27838
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714224"), 
+    "HOTELNAME" : "Vivanta by Taj Ambassador", 
+    "EMAILID" : "vivanta.ambassador@tajhotels.com", 
+    "Address" : "\"Sujan Singh ParkCornwallis Road, New Delhi - 110003, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-66261000", 
+    "Fax" : "011-24632252", 
+    "Website" : "www.vivantabytaj.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(88), 
+    "Size" : "Medium", 
+    "Latitude" : 28.60126, 
+    "Longitude" : 77.22954
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714225"), 
+    "HOTELNAME" : "Fortune Select Regina ", 
+    "EMAILID" : "velu@acronindia.com", 
+    "Address" : "\"376, Off. Fort Aquada Road , Candolim , GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8323988444", 
+    "Fax" : "", 
+    "Website" : "", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(102), 
+    "Size" : "Large", 
+    "Latitude" : 15.5135, 
+    "Longitude" : 73.76881
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714226"), 
+    "HOTELNAME" : "Bogmallo Beach Resort", 
+    "EMAILID" : "bbrtwhl@sancharnet.in", 
+    "Address" : "\"P.O. Bogmallo, Goa - 403806, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-2538222-13", 
+    "Fax" : "0832-2538236", 
+    "Website" : "www.bogmallobeachresort.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(126), 
+    "Size" : "Large", 
+    "Latitude" : 15.3716, 
+    "Longitude" : 73.84594
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714227"), 
+    "HOTELNAME" : "DEVAAYA AYURVEDA SPA RESORT ", 
+    "EMAILID" : "www.alconvictorgroup.com", 
+    "Address" : "\"DIWAR, ILHAS ,GOA , GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "83222280500", 
+    "Fax" : "8322280678", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(57), 
+    "Size" : "Medium", 
+    "Latitude" : 15.52997, 
+    "Longitude" : 73.77482
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714228"), 
+    "HOTELNAME" : "Holiday Inn Resort", 
+    "EMAILID" : "NA", 
+    "Address" : "\"Mobor Beach Cavelossim Salcete,Goa, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322871303", 
+    "Fax" : "8322871333", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(203), 
+    "Size" : "Large", 
+    "Latitude" : 15.36411, 
+    "Longitude" : 73.9461
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714229"), 
+    "HOTELNAME" : "The Crown Goa", 
+    "EMAILID" : "reservations@thecrowngoa.com", 
+    "Address" : "\"(A unit of Vision Enterprises) Bairo Alto Dos Pilotos, Goa, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322400000", 
+    "Fax" : "8322400010", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(43), 
+    "Size" : "Small", 
+    "Latitude" : 15.545388, 
+    "Longitude" : 73.76392
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471422a"), 
+    "HOTELNAME" : "Hotel Neo Majestic", 
+    "EMAILID" : "neomajestic@neomajestic.com", 
+    "Address" : "\"Plot No. 104/1APorvorim, North Goa, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832 2410378", 
+    "Fax" : "0832 2415715", 
+    "Website" : "www.neomajestic.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(50), 
+    "Size" : "Small", 
+    "Latitude" : 33.16155, 
+    "Longitude" : 73.717
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471422b"), 
+    "HOTELNAME" : "The Kenilworth Beach Resort & Spa", 
+    "EMAILID" : "kenilworthgoa@kenilworthhotels.com", 
+    "Address" : "\"Utorda, Salcete - 403 713, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-6698888", 
+    "Fax" : "0832-2754183", 
+    "Website" : "www.kenilworthhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(104), 
+    "Size" : "Large", 
+    "Latitude" : 15.21071, 
+    "Longitude" : 73.98939
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471422c"), 
+    "HOTELNAME" : "Hotel La Calypso Get Aways.", 
+    "EMAILID" : "reservations@lacalypsohotels.com", 
+    "Address" : "\"Saunta Vaddo, Baga Calangute Road, Calanguta VPBardez Goa, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322275777", 
+    "Fax" : "8322275815", 
+    "Website" : "www.lacalypsohotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(14), 
+    "Size" : "Small", 
+    "Latitude" : 15.537, 
+    "Longitude" : 73.76425
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471422d"), 
+    "HOTELNAME" : "The \"O\"", 
+    "EMAILID" : "info@ohotelsindia.com/res.goa@ohotelsindia.com", 
+    "Address" : "\"S. No. 114/1Next to Kingfisher Villa, Condolim, Bardez - 403515, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8323047000", 
+    "Fax" : "8323047009", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(75), 
+    "Size" : "Medium", 
+    "Latitude" : 15.51216, 
+    "Longitude" : 73.77548
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471422e"), 
+    "HOTELNAME" : "Sun-n-Sand Hotel", 
+    "EMAILID" : "resgoa@sunnsandhotel.com", 
+    "Address" : "\"Bairo Alto Dos PilotosJose Falcao Road, Panjim, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322400000", 
+    "Fax" : "8322400010", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(43), 
+    "Size" : "Small", 
+    "Latitude" : 15.45844, 
+    "Longitude" : 73.80566
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471422f"), 
+    "HOTELNAME" : "The Imperial Palace ", 
+    "EMAILID" : "mail@hotelimperialpalace.biz", 
+    "Address" : "\"Dr Yagnik Road , Rajkot , GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "2812480000", 
+    "Fax" : "2812480009", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(80), 
+    "Size" : "Medium", 
+    "Latitude" : 22.29402, 
+    "Longitude" : 70.79102
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714230"), 
+    "HOTELNAME" : "Le Meridien", 
+    "EMAILID" : "gmoffice.ahmedabad@lemeridien.com", 
+    "Address" : "\"C/o. Associated Hotels Pvt. Ltd. Chand Suraj Estate Near Nehru Bridge, Khanpur, Ahmedabad, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "7925505505", 
+    "Fax" : "7925505501", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(63), 
+    "Size" : "Medium", 
+    "Latitude" : 22.96775, 
+    "Longitude" : 72.63868
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714231"), 
+    "HOTELNAME" : "The Gateway Hotel Ummed", 
+    "EMAILID" : "gateway.ahmedabad@tajhotels.com", 
+    "Address" : "\"International Airport CircleNext to Army Cantonment, Hansol, Ahmedabad - 382 475, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "079-66661234", 
+    "Fax" : "079-66664444", 
+    "Website" : "www.thegatewayhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(91), 
+    "Size" : "Medium", 
+    "Latitude" : 23.08157, 
+    "Longitude" : 72.61658
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714232"), 
+    "HOTELNAME" : "The Galaxy Hotel", 
+    "EMAILID" : "info@galaxyhotel.in", 
+    "Address" : "\"NH-8Sector-15, Part-II, Gurgaon - 122001, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-4565000", 
+    "Fax" : "0124-4565151", 
+    "Website" : "www.galaxyhotel.in", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(80), 
+    "Size" : "Medium", 
+    "Latitude" : 28.44901, 
+    "Longitude" : 77.03931
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714233"), 
+    "HOTELNAME" : "THE CHANCERY PAVILION", 
+    "EMAILID" : "gm@chanceryhotels.com", 
+    "Address" : "\"ELIXIR ENTERPRISES & HOTELS PVT LTD., NO-135, RESIDENCY ROAD, BANGALORE, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8041414141", 
+    "Fax" : "8041414242", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(170), 
+    "Size" : "Large", 
+    "Latitude" : 12.96564, 
+    "Longitude" : 77.59778
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714234"), 
+    "HOTELNAME" : "The Zuri - Whitefield", 
+    "EMAILID" : "reservations@zuribangalore.com", 
+    "Address" : "\"Rajpalya Hoodi - RoadWhitefield, Bengaluru - 560048, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8066657272", 
+    "Fax" : "8066657282", 
+    "Website" : "www.thezurihotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(162), 
+    "Size" : "Large", 
+    "Latitude" : 12.99155, 
+    "Longitude" : 77.71521
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714235"), 
+    "HOTELNAME" : "Fortune Park J. P. Palace", 
+    "EMAILID" : "rahul.nama@fortunehotels.in", 
+    "Address" : "\"No.-3 Abba RoadNazarabad Mohalla, Mysore, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8213988444", 
+    "Fax" : "8213984444", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(108), 
+    "Size" : "Large", 
+    "Latitude" : 12.31874, 
+    "Longitude" : 76.66235
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714236"), 
+    "HOTELNAME" : "Hotel Le Meridien - Bangalore", 
+    "EMAILID" : "reservations.bangalore@lemeridien.com/leme.bangalore@lemeridien.com", 
+    "Address" : "\"No. 28, Sankey RoadP.B. No. 174, Bangalore - 560052, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "080-22262233/2228282", 
+    "Fax" : "080-22267676/2226205", 
+    "Website" : "www.lemeridien-bangalore.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(195), 
+    "Size" : "Large", 
+    "Latitude" : 12.98979, 
+    "Longitude" : 77.5859
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714237"), 
+    "HOTELNAME" : "Movenpick Hotel & Spa Bangalore", 
+    "EMAILID" : "hotel.bangalore@moevenpick.com", 
+    "Address" : "\"115 Pipeline Road near BEL CircleGokula Extension, Bangalore, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8043001000", 
+    "Fax" : "8043001010", 
+    "Website" : "moevenpick-hotel.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(262), 
+    "Size" : "Large", 
+    "Latitude" : 12.98523, 
+    "Longitude" : 77.47812
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714238"), 
+    "HOTELNAME" : "Club Mahindra Lakeview", 
+    "EMAILID" : "gm.munnar@clubmahindra.com", 
+    "Address" : "\"Munner, Chinnakanal VillageVia: Suryanelli, Idukki District - 685618, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04868-249290-91", 
+    "Fax" : "04868-249227", 
+    "Website" : "www.clubmahindra.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(38), 
+    "Size" : "Small", 
+    "Latitude" : 10.04149, 
+    "Longitude" : 77.17578
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d54714239"), 
+    "HOTELNAME" : "The Quilon Beach Hotel", 
+    "EMAILID" : "crs@qresorts.in", 
+    "Address" : "\"Beach Kollam-691001, Kollam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4742769999", 
+    "Fax" : "4742749009", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(95), 
+    "Size" : "Medium", 
+    "Latitude" : 8.8869, 
+    "Longitude" : 76.59228
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471423a"), 
+    "HOTELNAME" : "The Elephant Court", 
+    "EMAILID" : "info@theelephantcourt.com", 
+    "Address" : "\"Off Kumily - Thekkady RoadThekkady P.O., Kumily - 685 536, Idukki District, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04869-224696,224697,", 
+    "Fax" : "04869-224238", 
+    "Website" : "www.theelephantcourt.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(64), 
+    "Size" : "Medium", 
+    "Latitude" : 9.60574, 
+    "Longitude" : 77.16721
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471423b"), 
+    "HOTELNAME" : "Turtle On The Beach", 
+    "EMAILID" : "info.turtle@thrhotels.com", 
+    "Address" : "\"VPI/43ITDC Road, Kovalam, Trivandrum - 685 527, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-2514000", 
+    "Fax" : "0471-2514001", 
+    "Website" : "www.turtleonthebeach.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(44), 
+    "Size" : "Small", 
+    "Latitude" : 8.39844, 
+    "Longitude" : 76.98195
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471423c"), 
+    "HOTELNAME" : "Casino Hotel", 
+    "EMAILID" : "casinohotel@cghearth.com", 
+    "Address" : "\"Willingdon Island, Cochin - 682 003, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0484-2668421-2666821", 
+    "Fax" : "0484-2668001", 
+    "Website" : "www.cghearth.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(67), 
+    "Size" : "Medium", 
+    "Latitude" : 9.94417, 
+    "Longitude" : 76.28357
+}
+{ 
+    "_id" : ObjectId("5ba9cb3fe54d092d5471423d"), 
+    "HOTELNAME" : "Trident, Cochin", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"Bristow RoadWillingdon Island, Cochin - 682003, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4843081000", 
+    "Fax" : "4843081002", 
+    "Website" : "www.tridenthotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(85), 
+    "Size" : "Medium", 
+    "Latitude" : 9.95927, 
+    "Longitude" : 76.26862
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471423e"), 
+    "HOTELNAME" : "The Gateway Hotel -Ernakulam", 
+    "EMAILID" : "gateway.ernakulam@tajhotels.com", 
+    "Address" : "\"Marine DriveErnakulam, Kochi - 682 011, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0484-2371471, 667330", 
+    "Fax" : "0484-2371481, 667344", 
+    "Website" : "www.thegatewayhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(108), 
+    "Size" : "Large", 
+    "Latitude" : 9.97413, 
+    "Longitude" : 76.27774
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471423f"), 
+    "HOTELNAME" : "Kadavu Resort & Ayurveda Centre", 
+    "EMAILID" : "info@kadavuresorts.com", 
+    "Address" : "\"NH-17, Calicut Bye Pass Road, Azhijilam P.O., near Feroke CollegeCalicut - 673632, (A Division of Yenkay complex Pvt. Ltd.), KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0483-2830023,027,570", 
+    "Fax" : "0483-2830575", 
+    "Website" : "www.kadavuresorts.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(72), 
+    "Size" : "Medium", 
+    "Latitude" : 11.1864, 
+    "Longitude" : 75.83206
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714240"), 
+    "HOTELNAME" : "The Muthoot Plaza Hotel", 
+    "EMAILID" : "gmtmp@sarovarhotels.com", 
+    "Address" : "\"Punnen Road, Thiruvananthapuram - 695039, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-2337733", 
+    "Fax" : "0471-2337734", 
+    "Website" : "www.sarovarhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(57), 
+    "Size" : "Medium", 
+    "Latitude" : 8.49966, 
+    "Longitude" : 76.95165
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714241"), 
+    "HOTELNAME" : "Taj Residency - Trivandrum", 
+    "EMAILID" : "taj.trivandrum@tajhotels.com", 
+    "Address" : "\"T.C. No. 24/1987 (2)C.V. Raman Pillai Road, Thyeaud, Thiruvananthapuram - 695014, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-6612345", 
+    "Fax" : "0471-6612121", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(137), 
+    "Size" : "Large", 
+    "Latitude" : 8.49692, 
+    "Longitude" : 76.95779
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714242"), 
+    "HOTELNAME" : "Hotel Ramada -  Khajuraho", 
+    "EMAILID" : "reservations@ramadahotelkhajuraho.com", 
+    "Address" : "\"(Owned By Jagdish Shanti Hotel Pvt. Ltd.)Airport Road, Khajuraho - 471606, MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "07686-272302-03", 
+    "Fax" : "07686-272304", 
+    "Website" : "www.ramadahotelkhajuraho.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(82), 
+    "Size" : "Medium", 
+    "Latitude" : 24.84748, 
+    "Longitude" : 79.91932
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714243"), 
+    "HOTELNAME" : "Radisson Jass Hotel", 
+    "EMAILID" : "reservations@radissionkhajuraho.com", 
+    "Address" : "\"By Pass RoadKhajuraho, Dist Chattarpur, MADHYA PRADESH\"", 
+    "State" : "MADHYA PRADESH", 
+    "Phone" : "07686272344/274461", 
+    "Fax" : "7686272345", 
+    "Website" : "www.radisson.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(90), 
+    "Size" : "Medium", 
+    "Latitude" : 24.85293, 
+    "Longitude" : 79.93103
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714244"), 
+    "HOTELNAME" : "Grand Sarovar Premiere", 
+    "EMAILID" : "gm@grandsarovar.com/gsp@sarovarhotels.com", 
+    "Address" : "\"Junction of Veer Savarkar Flyover &S.V. Road, Goregaon (West)-400062, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "0224215 8000/2871 80", 
+    "Fax" : "0222871 8001", 
+    "Website" : "www.grandsarovar.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(98), 
+    "Size" : "Medium", 
+    "Latitude" : 19.17327, 
+    "Longitude" : 72.84515
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714245"), 
+    "HOTELNAME" : "Hotel Meluha", 
+    "EMAILID" : "sam@meluhafernhotel.com", 
+    "Address" : "\"Building 7, Sector-V, Central Avenue Hiranandani Gardens Powai, Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2225755555", 
+    "Fax" : "2225755566", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(141), 
+    "Size" : "Large", 
+    "Latitude" : 19.11554, 
+    "Longitude" : 72.90826
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714246"), 
+    "HOTELNAME" : "Hotel Tunga Regency Pvt.Ltd. ", 
+    "EMAILID" : "www.tungahotels.com", 
+    "Address" : "\"PLOT NO-37, SECTOR 30-A, VASHI , NAVI MUMBAI , Mumbai , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2266801818", 
+    "Fax" : "2266801800", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(92), 
+    "Size" : "Medium", 
+    "Latitude" : 19.0689, 
+    "Longitude" : 72.99517
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714247"), 
+    "HOTELNAME" : "Ramada Plaza Palm Grove", 
+    "EMAILID" : "palmgrove@krahejahospitality.com", 
+    "Address" : "\"Juhu Beach, Mumbai - 400049, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-26112323", 
+    "Fax" : "022-26113682/2611064", 
+    "Website" : "www.ramadainternational.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(115), 
+    "Size" : "Large", 
+    "Latitude" : 19.09153, 
+    "Longitude" : 72.82881
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714248"), 
+    "HOTELNAME" : "The Shalimar Hotel ", 
+    "EMAILID" : "theshalimarhotel@vsnl.com", 
+    "Address" : "\"August Kranti Marg , Mumbai , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2266641000", 
+    "Fax" : "2266641010", 
+    "Website" : "www.theshalimarhotel.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(65), 
+    "Size" : "Medium", 
+    "Latitude" : 18.9644, 
+    "Longitude" : 72.80595
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714249"), 
+    "HOTELNAME" : "THE PRIDE HOTEL ", 
+    "EMAILID" : "PRIDE_NGP@SANCHARNET.COM", 
+    "Address" : "\"OPP. AIRPORT WARDHA ROAD , Nagpur , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "7122291102", 
+    "Fax" : "7122290440", 
+    "Website" : "WWW.PRIDEGROUP.NET", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(93), 
+    "Size" : "Medium", 
+    "Latitude" : 21.0783999, 
+    "Longitude" : 79.0607
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471424a"), 
+    "HOTELNAME" : "Four Points By Sheraton", 
+    "EMAILID" : "fo@punefourpoints.com", 
+    "Address" : "\"S.No.197/3, Nagar Road,Viman Nagar, Pune, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2039406699", 
+    "Fax" : "2030930930", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(246), 
+    "Size" : "Large", 
+    "Latitude" : 18.5058599, 
+    "Longitude" : 73.84456
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471424b"), 
+    "HOTELNAME" : "Taj Blue Diamond", 
+    "EMAILID" : "sandip.mukherjee@tajhotels.com", 
+    "Address" : "\"11Koregaon Road, Pune - 411001, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "020-66025555", 
+    "Fax" : "020-66027755", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(110), 
+    "Size" : "Large", 
+    "Latitude" : 18.54111, 
+    "Longitude" : 73.891
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471424c"), 
+    "HOTELNAME" : "The O Hotel", 
+    "EMAILID" : "info@ohotelsindia.com", 
+    "Address" : "\"Survey No.371Final Plot No.293, Koregaon, Pune - 411001, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "020-40011000", 
+    "Fax" : "020-40011009", 
+    "Website" : "www.ohotelsindia.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(111), 
+    "Size" : "Large", 
+    "Latitude" : 18.52371, 
+    "Longitude" : 73.88319
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471424d"), 
+    "HOTELNAME" : "Taj Residency - Aurangabad", 
+    "EMAILID" : "residency.aurangabad@tajhotels.com", 
+    "Address" : "\"8-N-12CIDCO RAUZA BAGH, Aurangabad, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2406613737", 
+    "Fax" : "2406613939", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(64), 
+    "Size" : "Medium", 
+    "Latitude" : 19.90389, 
+    "Longitude" : 75.3484
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471424e"), 
+    "HOTELNAME" : "Hotel Sea Princess ", 
+    "EMAILID" : "seaprincess@vsnl.com", 
+    "Address" : "\"969 Juhu Beach , Mumbai , MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2226611111", 
+    "Fax" : "2226611144", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(108), 
+    "Size" : "Large", 
+    "Latitude" : 19.09153, 
+    "Longitude" : 72.82881
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471424f"), 
+    "HOTELNAME" : "The Gateway Hotel", 
+    "EMAILID" : "residency.nashik@tajhotels.com", 
+    "Address" : "\"P-17, MIDC Ambad MumbaiMumbai - Agra Road, Nashik, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2535604499", 
+    "Fax" : "2535603366", 
+    "Website" : "tajhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(70), 
+    "Size" : "Medium", 
+    "Latitude" : 19.9554, 
+    "Longitude" : 73.75128
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714250"), 
+    "HOTELNAME" : "Hotel Parc Estique", 
+    "EMAILID" : "cmd@parcestique.com/info@parcestique.com", 
+    "Address" : "\"Viman NagarNagar Road, Pune - 411014, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2041004100", 
+    "Fax" : "2041004111", 
+    "Website" : "www.estiquehotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(116), 
+    "Size" : "Large", 
+    "Latitude" : 18.56798, 
+    "Longitude" : 73.91868
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714251"), 
+    "HOTELNAME" : "Radisson Windsor Hotel ", 
+    "EMAILID" : "radjal@vsnl.com", 
+    "Address" : "\"Windsor Fountain G.T. Road, Near BMC Chowk , Jalandhar , PUNJAB\"", 
+    "State" : "PUNJAB", 
+    "Phone" : "1814671234", 
+    "Fax" : "815082233", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(62), 
+    "Size" : "Medium", 
+    "Latitude" : 31.29695, 
+    "Longitude" : 75.55926
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714252"), 
+    "HOTELNAME" : "Majestic Park Plaza ", 
+    "EMAILID" : "www.fhraI.com", 
+    "Address" : "\"P.O. BOX NO 333 BHAI BALA CHOWK, FEROZEPUR ROAD. , Ludhiana , PUNJAB\"", 
+    "State" : "PUNJAB", 
+    "Phone" : "1612773000", 
+    "Fax" : "1612771888", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(117), 
+    "Size" : "Large", 
+    "Latitude" : 30.90221, 
+    "Longitude" : 75.8323
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714253"), 
+    "HOTELNAME" : "Hotel Mansingh", 
+    "EMAILID" : "sales.jpr@mansinghhotels.com", 
+    "Address" : "\"Sansar Chandra Road, Jaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "01412378771, 511, 77", 
+    "Fax" : "1412377582", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(95), 
+    "Size" : "Medium", 
+    "Latitude" : 26.92069, 
+    "Longitude" : 75.8032
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714254"), 
+    "HOTELNAME" : "Hotel Trident, Jaipur", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"Amber Fort RoadOpp. Jal Mahal, Jaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "0141-2670101", 
+    "Fax" : "0141-2670303", 
+    "Website" : "www.tridenthotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(134), 
+    "Size" : "Large", 
+    "Latitude" : 27.12363, 
+    "Longitude" : 75.73217
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714255"), 
+    "HOTELNAME" : "Fortune Select Metropolitan - Jaipur", 
+    "EMAILID" : "metropolitan@fortunehotels.in", 
+    "Address" : "\"Fortune Select Metropolitan, Nehru Sahkar Bhawan,C-Scheme, Bias Godam Circle, Jaipur, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "911413099010", 
+    "Fax" : "911413099099", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(90), 
+    "Size" : "Medium", 
+    "Latitude" : 26.91005, 
+    "Longitude" : 75.80677
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714256"), 
+    "HOTELNAME" : "Chokhi Dhani", 
+    "EMAILID" : "resort@chokhidhani.com", 
+    "Address" : "\"The Ethntic Village Resort12 Miles, Via Vatika, Tonk Road, Jaipur - 303905, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "0141-2770555-56", 
+    "Fax" : "0141-2770558", 
+    "Website" : "www.chokhidhani.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(97), 
+    "Size" : "Medium", 
+    "Latitude" : 26.74071, 
+    "Longitude" : 75.86309
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714257"), 
+    "HOTELNAME" : "Inder Residency", 
+    "EMAILID" : "seasonshotel@gmail.com", 
+    "Address" : "\"(A Unit of Seasons Hotels Pvt. Ltd.)Goverdhan Vilas, Shikarbadi Road, Ekling Nagar, Udaipur - 313 001, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "0294-2489888", 
+    "Fax" : "0294-2488733", 
+    "Website" : "www.inderresidency.in", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(144), 
+    "Size" : "Large", 
+    "Latitude" : 24.64698, 
+    "Longitude" : 73.70781
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714258"), 
+    "HOTELNAME" : "Denzong Regency", 
+    "EMAILID" : "welcomheritage_denzongregency@hotmail.com", 
+    "Address" : "\"Cherry Banks,Development Area, Gangtok, SIKKIM\"", 
+    "State" : "SIKKIM", 
+    "Phone" : "3592201565", 
+    "Fax" : "35922012568", 
+    "Website" : "denzongregency.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(25), 
+    "Size" : "Small", 
+    "Latitude" : 27.33153, 
+    "Longitude" : 88.61397
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714259"), 
+    "HOTELNAME" : "The Gateway Hotel Pasumalai Madurai", 
+    "EMAILID" : "gateway.madurai@tajhotels.com", 
+    "Address" : "\"(formerly known as Taj Garden Retreat Madurai)40 T.P.K. Road, Pasumalai, Madurai - 625 004, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "0452-6633000", 
+    "Fax" : "0452-6633081", 
+    "Website" : "www.thegatewayhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(63), 
+    "Size" : "Medium", 
+    "Latitude" : 9.89369, 
+    "Longitude" : 78.07954
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471425a"), 
+    "HOTELNAME" : "Radisson Hotel GRT", 
+    "EMAILID" : "reservations@radissongrt.com", 
+    "Address" : "\"G S T Road St Thomas Mount Chennai, Chennai, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "4422310101", 
+    "Fax" : "4422310202", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(101), 
+    "Size" : "Large", 
+    "Latitude" : 13.00023, 
+    "Longitude" : 80.19458
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471425b"), 
+    "HOTELNAME" : "Trident - Chennai", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"1/24, GST RoadMeenambakkam, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-22344747", 
+    "Fax" : "044-22346699", 
+    "Website" : "www.tridenthotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(167), 
+    "Size" : "Large", 
+    "Latitude" : 12.98685, 
+    "Longitude" : 80.17509
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471425c"), 
+    "HOTELNAME" : "Hotel Clarks Shiraz", 
+    "EMAILID" : "info@hotelclarksshiraz.com/resv@hotelclarks.in", 
+    "Address" : "\"54Taj Road, Agra - 282001, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "0562-2226121-27", 
+    "Fax" : "0562-2226128", 
+    "Website" : "www.hotelclarksshiraz.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(237), 
+    "Size" : "Large", 
+    "Latitude" : 27.02317, 
+    "Longitude" : 78.09255
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471425d"), 
+    "HOTELNAME" : "Hotel Trident - Agra", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"Fatehabad Road, Agra, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "5622235000", 
+    "Fax" : "5622231812", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(138), 
+    "Size" : "Large", 
+    "Latitude" : 27.15667, 
+    "Longitude" : 78.06532
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471425e"), 
+    "HOTELNAME" : "Country Inn & Suites by Carlson.", 
+    "EMAILID" : "info@cissahibabad.in", 
+    "Address" : "\"64/6, Site - IVSahibabad, (Distt. Ghaziabad) - 201 010, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "0120-4180000", 
+    "Fax" : "0120-4180088", 
+    "Website" : "www.countryinns.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(216), 
+    "Size" : "Large", 
+    "Latitude" : 28.65953, 
+    "Longitude" : 77.34763
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471425f"), 
+    "HOTELNAME" : "Radisson Hotel Varanasi", 
+    "EMAILID" : "reservations@radissonvns.com", 
+    "Address" : "\"The Mall Cantonment, Varanasi Uttar Pradesh, Varanasi, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "5422501515", 
+    "Fax" : "5422501516", 
+    "Website" : "NA", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(116), 
+    "Size" : "Large", 
+    "Latitude" : 25.2833599, 
+    "Longitude" : 82.91398
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714260"), 
+    "HOTELNAME" : "The Gateway Hotel, Agra", 
+    "EMAILID" : "tajview.agra@tajhotels.com/gateway.agra@tajhotels.com", 
+    "Address" : "\"Taj GanjFatehabad Road, Agra - 282001, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "5626602000", 
+    "Fax" : "5622232420", 
+    "Website" : "www.tajhotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(100), 
+    "Size" : "Medium", 
+    "Latitude" : 27.16862, 
+    "Longitude" : 78.04223
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714261"), 
+    "HOTELNAME" : "Hotel Hindusthan International", 
+    "EMAILID" : "reservation@hindusthan.com", 
+    "Address" : "\"235/1A.J.C. Bose Road, Kolkata - 700020, WEST BENGAL\"", 
+    "State" : "WEST BENGAL", 
+    "Phone" : "033-40018000-4001808", 
+    "Fax" : "033-22800111", 
+    "Website" : "www.hhihotels.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(184), 
+    "Size" : "Large", 
+    "Latitude" : 22.54136, 
+    "Longitude" : 88.35109
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714262"), 
+    "HOTELNAME" : "Swissotel Kolkata Neotia Vista", 
+    "EMAILID" : "subrata.sarkar@swissotel.com", 
+    "Address" : "\"M/s Swissotel Kolkata Neotia Vista City Center New Town Action Area 2/DPlot No. 11/5 New Town Rajarhat, Kolkata, WEST BENGAL\"", 
+    "State" : "WEST BENGAL", 
+    "Phone" : "913366266666", 
+    "Fax" : "", 
+    "Website" : "www.swissotel.com", 
+    "Type" : "5 Star", 
+    "Rooms" : NumberInt(147), 
+    "Size" : "Large", 
+    "Latitude" : 22.56049, 
+    "Longitude" : 88.49145
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714263"), 
+    "HOTELNAME" : "The Golkonda", 
+    "EMAILID" : "gateway.mangalore@tajhotels.com", 
+    "Address" : "\"(A Unit of Golkonda Hospitality Services & REsorts Ltd.) 10-1-124Masab Tank, Hyderabad, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "8246660420", 
+    "Fax" : "8246660585", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(94), 
+    "Size" : "Medium", 
+    "Latitude" : 17.41646, 
+    "Longitude" : 78.43804
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714264"), 
+    "HOTELNAME" : "Palm Beach Hotel", 
+    "EMAILID" : "info@palmbeachhotel.in", 
+    "Address" : "\"Beach Road, Visakhapatnam - 530 023, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "0891-2754026/27", 
+    "Fax" : "0891-2731036", 
+    "Website" : "www.palmbeachhotel.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(44), 
+    "Size" : "Small", 
+    "Latitude" : 17.71434, 
+    "Longitude" : 83.32341
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714265"), 
+    "HOTELNAME" : "QUALITY INN DV MANOR", 
+    "EMAILID" : "info@hoteldvmanor.com", 
+    "Address" : "\"40-1-47, M.G.ROADVENKATESHWARA PURAM, Vijayawada, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "866474455", 
+    "Fax" : "866483170", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(115), 
+    "Size" : "Large", 
+    "Latitude" : 16.47309, 
+    "Longitude" : 80.71533
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714266"), 
+    "HOTELNAME" : "Best Western Amrutha Castle", 
+    "EMAILID" : "info@bestwesternamruthacastle.com", 
+    "Address" : "\"5-9-16, SaifabadOpp. Secretariat, Hyderabad - 500063, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "040-66633888", 
+    "Fax" : "040-66828222", 
+    "Website" : "www.bestwesternamruthacastle.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(90), 
+    "Size" : "Medium", 
+    "Latitude" : 17.40774, 
+    "Longitude" : 78.46959
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714267"), 
+    "HOTELNAME" : "Hotel Green Park", 
+    "EMAILID" : "hyd@hotelgreenpark.com", 
+    "Address" : "\"(A Division of Diana Hotels Ltd.)7-1-26, Greenlands, Begumpet, Hyderabad - 500016, ANDHRA PRADESH\"", 
+    "State" : "ANDHRA PRADESH", 
+    "Phone" : "040-66515151", 
+    "Fax" : "4023757677", 
+    "Website" : "hotelgreenpark.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(149), 
+    "Size" : "Large", 
+    "Latitude" : 17.436, 
+    "Longitude" : 78.4542
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714268"), 
+    "HOTELNAME" : "Hotel Raj Mahal", 
+    "EMAILID" : "info@hotelrajmahal.in/hotelrajmahal@vsnl.net", 
+    "Address" : "\"A.T. RoadPaltan Bazar, Guwahati - 781001, ASSAM\"", 
+    "State" : "ASSAM", 
+    "Phone" : "0361-2549141", 
+    "Fax" : "0361-2639282", 
+    "Website" : "www.hotelrajmahal.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(71), 
+    "Size" : "Medium", 
+    "Latitude" : 26.18071, 
+    "Longitude" : 91.74923
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714269"), 
+    "HOTELNAME" : "Hotel Natraj", 
+    "EMAILID" : "hotelnatraj09@gmail.com", 
+    "Address" : "\"H.S. Road, Dibrugarh - 786001, ASSAM\"", 
+    "State" : "ASSAM", 
+    "Phone" : "0373-2327275", 
+    "Fax" : "0373-2321375", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 27.48205, 
+    "Longitude" : 94.90386
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471426a"), 
+    "HOTELNAME" : "Hotel The Royal Plaza", 
+    "EMAILID" : "reservations@hoteltheroyalplaza.com/info@hoteltheroyalplaza.com", 
+    "Address" : "\"(A Unit of Hotel Queen Road Pvt. Ltd.)19, Ashoka Road, New Delhi-110001, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1143555555", 
+    "Fax" : "1143555556", 
+    "Website" : "www.hoteltheroyalplaza.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(419), 
+    "Size" : "Large", 
+    "Latitude" : 28.62206, 
+    "Longitude" : 77.21511
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471426b"), 
+    "HOTELNAME" : "Hotel City Park", 
+    "EMAILID" : "hotelcitypark@vsnl.net", 
+    "Address" : "\"3/4, K/P BLOCK PITAMPURA, New Delhi, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1125468230", 
+    "Fax" : "1127310110", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(58), 
+    "Size" : "Medium", 
+    "Latitude" : 28.70475, 
+    "Longitude" : 77.14052
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471426c"), 
+    "HOTELNAME" : "Hotel Diplomat", 
+    "EMAILID" : "", 
+    "Address" : "\"9, Sardar Patel MargDiplomatic Enclave, New Delhi, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1123010204", 
+    "Fax" : "1123018605", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(25), 
+    "Size" : "Small", 
+    "Latitude" : 28.60654, 
+    "Longitude" : 77.18823
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471426d"), 
+    "HOTELNAME" : "Maidens Hotel", 
+    "EMAILID" : "reservations@oberoigroup.com", 
+    "Address" : "\"7Sham Nath Marg, New Delhi - 110054, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-23975464", 
+    "Fax" : "011-23980771", 
+    "Website" : "www.maidenshotel.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(55), 
+    "Size" : "Medium", 
+    "Latitude" : 28.67535, 
+    "Longitude" : 77.22538
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471426e"), 
+    "HOTELNAME" : "The Connaught", 
+    "EMAILID" : "theconnaughtnewdelhi@yahoo.com", 
+    "Address" : "\"37Shaheed Bhagat Singh Marg, New Delhi - 110001, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "011-23364225", 
+    "Fax" : "011-23340757", 
+    "Website" : "www.theconnaughtnewdelhi.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(79), 
+    "Size" : "Medium", 
+    "Latitude" : 28.63365, 
+    "Longitude" : 77.20734
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471426f"), 
+    "HOTELNAME" : "Hotel Vikram", 
+    "EMAILID" : "info@hotelvikram.com", 
+    "Address" : "\"Ring Road, Lajpat Nagar, New Delhi, DELHI\"", 
+    "State" : "DELHI", 
+    "Phone" : "1146515151", 
+    "Fax" : "1146515152", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(68), 
+    "Size" : "Medium", 
+    "Latitude" : 28.56493, 
+    "Longitude" : 77.23991
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714270"), 
+    "HOTELNAME" : "Lazylagoon Sarovar Portico Suites", 
+    "EMAILID" : "gmgpo@sarovarhotels.com", 
+    "Address" : "\"(Unit of Aqua Resorts & Spa Pvt. Ltd.)Baga - Arpora, Bardez - 403518, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "0832-2281520", 
+    "Fax" : "0832-2281527", 
+    "Website" : "www.sarovarhotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(39), 
+    "Size" : "Small", 
+    "Latitude" : 15.56775, 
+    "Longitude" : 73.77146
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714271"), 
+    "HOTELNAME" : "Sun Village Resort", 
+    "EMAILID" : "sun-village@desouzahotels.com", 
+    "Address" : "\"SaquawadiBaga-Arpora Bardez, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "8322279409", 
+    "Fax" : "8322279415", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(135), 
+    "Size" : "Large", 
+    "Latitude" : 15.56775, 
+    "Longitude" : 73.77146
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714272"), 
+    "HOTELNAME" : "WHISPERING PALMS BEACH RESORT", 
+    "EMAILID" : "info@whisperingpalms.com", 
+    "Address" : "\"SINQUERIM BEACH, WADDICANDOLIM, BARDEZ-GOA, GOA\"", 
+    "State" : "GOA", 
+    "Phone" : "4712485766", 
+    "Fax" : "4712481578", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(197), 
+    "Size" : "Large", 
+    "Latitude" : 15.55376, 
+    "Longitude" : 73.7794399
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714273"), 
+    "HOTELNAME" : "The Metropole Hotel", 
+    "EMAILID" : "info@themetropolehotel.co.in", 
+    "Address" : "\"(Unit of Majestic Projects Pvt. Ltd.)Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad - 380027, \"", 
+    "State" : "GUJARAT", 
+    "Phone" : "079-30130200", 
+    "Fax" : "079-30130208", 
+    "Website" : "www.themetropolehotel.co.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(70), 
+    "Size" : "Medium", 
+    "Latitude" : 23.06616, 
+    "Longitude" : 72.58331
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714274"), 
+    "HOTELNAME" : "Hotel Fortune Palace", 
+    "EMAILID" : "hotelfortunepalace@yahoo.com", 
+    "Address" : "\"Near Digjam CircleAirport Road, Jamnagar - 361 008, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "0288-2720291", 
+    "Fax" : "0288-2720296", 
+    "Website" : "www.hotelfortunepalace.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(45), 
+    "Size" : "Small", 
+    "Latitude" : 22.47019, 
+    "Longitude" : 70.04248
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714275"), 
+    "HOTELNAME" : "Fortune Inn Haveli", 
+    "EMAILID" : "haveli@fortunehotels.in", 
+    "Address" : "\"Plot No. 235,Sector - 11, Gandhinagar, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "7939884422", 
+    "Fax" : "7939842121", 
+    "Website" : "www.fortunehotels.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(84), 
+    "Size" : "Medium", 
+    "Latitude" : 23.21741, 
+    "Longitude" : 72.64922
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714276"), 
+    "HOTELNAME" : "Hotel The Grand Bhagwati", 
+    "EMAILID" : "info@thegrandbhagwati.com", 
+    "Address" : "\"Opp. GurudwaraBodakdev, S.G. Highway, Ahmedabad - 380 054, GUJARAT\"", 
+    "State" : "GUJARAT", 
+    "Phone" : "7926841000", 
+    "Fax" : "7926840915", 
+    "Website" : "www.thegrandbhagwati.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(37), 
+    "Size" : "Small", 
+    "Latitude" : 23.04504, 
+    "Longitude" : 72.51512
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714277"), 
+    "HOTELNAME" : "Optus Sarovar Premiere Hotel", 
+    "EMAILID" : "spg@sarovarhotels.com", 
+    "Address" : "\"SCO 43-47Sector - 28, City Centre, Gurgaon - 122002, \"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-4887777", 
+    "Fax" : "0124-4887788", 
+    "Website" : "www.sarovarhotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(80), 
+    "Size" : "Medium", 
+    "Latitude" : 28.47316, 
+    "Longitude" : 77.0846
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714278"), 
+    "HOTELNAME" : "Park Premier", 
+    "EMAILID" : "info@parkpremierhotels.com", 
+    "Address" : "\"359-357Sector - 29, Gurgaon - 122 001, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-4604600", 
+    "Fax" : "0124-4604666", 
+    "Website" : "www.parkpremierhotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(94), 
+    "Size" : "Medium", 
+    "Latitude" : 28.46822, 
+    "Longitude" : 77.06787
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714279"), 
+    "HOTELNAME" : "The Bella Vista", 
+    "EMAILID" : "sales@bellavista.in", 
+    "Address" : "\"SM 8, City Centre,Sector 5, Panchkula, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "1725064848", 
+    "Fax" : "1725023802", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(49), 
+    "Size" : "Small", 
+    "Latitude" : 30.69839, 
+    "Longitude" : 76.85338
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471427a"), 
+    "HOTELNAME" : "Fortune Select Global", 
+    "EMAILID" : "global@fortunehotels.in", 
+    "Address" : "\"2nd Floor, Global ArcadeM.G. Road, Gurgaon, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-4196666", 
+    "Fax" : "0124-4062388", 
+    "Website" : "www.fortunehotelsin", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(83), 
+    "Size" : "Medium", 
+    "Latitude" : 28.4601, 
+    "Longitude" : 77.0264
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471427b"), 
+    "HOTELNAME" : "Courtyard By Marriott", 
+    "EMAILID" : "www.courtyardmarriottgurgaon.com", 
+    "Address" : "\"Plot No. 27 BSector Road, Sushant Lok - 1, Sector - 27, Gurgaon - 122 002, HARYANA\"", 
+    "State" : "HARYANA", 
+    "Phone" : "0124-4888444", 
+    "Fax" : "0124-4888222", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(198), 
+    "Size" : "Large", 
+    "Latitude" : 28.46775, 
+    "Longitude" : 77.0936399
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471427c"), 
+    "HOTELNAME" : "Fortune Park J.P.Celestial", 
+    "EMAILID" : "jpcelestial@fortunehotels.in", 
+    "Address" : "\"No 5/43, Seshadri RoadNear Race Course Road, Bangalore-09, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "8040441234", 
+    "Fax" : "8041476060", 
+    "Website" : "www.fortunehotels.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(130), 
+    "Size" : "Large", 
+    "Latitude" : 12.98409, 
+    "Longitude" : 77.58632
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471427d"), 
+    "HOTELNAME" : "The Gatwway Hotel - Chikmagalur", 
+    "EMAILID" : "gateway.chikmagalur@tajhotels.com", 
+    "Address" : "\"KM RoadJyothi Nagar, Chikmagalur - 577102, KARNATAKA\"", 
+    "State" : "KARNATAKA", 
+    "Phone" : "08262-660660-61", 
+    "Fax" : "08262-660666", 
+    "Website" : "www.thegatewayhotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(29), 
+    "Size" : "Small", 
+    "Latitude" : 13.3363, 
+    "Longitude" : 75.80116
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471427e"), 
+    "HOTELNAME" : "Raj Residency", 
+    "EMAILID" : "rajgrouphotels@gmail.com", 
+    "Address" : "\"Near New bus standAlamipally, Kanhangad, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4672208444", 
+    "Fax" : "4672217294", 
+    "Website" : "rajgrouphotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(198), 
+    "Size" : "Large", 
+    "Latitude" : 12.32419, 
+    "Longitude" : 75.08534
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471427f"), 
+    "HOTELNAME" : "Hotel Maurya Rajadhani", 
+    "EMAILID" : "maurya@rajadhanihotels.com", 
+    "Address" : "\"Stat GL,Hospital Road Statue, Trivandrum, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4712472299", 
+    "Fax" : "4712472299", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(39), 
+    "Size" : "Small", 
+    "Latitude" : 8.49874, 
+    "Longitude" : 76.9464
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714280"), 
+    "HOTELNAME" : "Keys Hotels", 
+    "EMAILID" : "reservations.thiruvananthapuram@keyshotels.com", 
+    "Address" : "\"Sy. No. 2863/1Opp. Fire & Rescue Services Housing Board junction, Trivandrum, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4713944100", 
+    "Fax" : "4713983800", 
+    "Website" : "keyshotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(101), 
+    "Size" : "Large", 
+    "Latitude" : 8.49412, 
+    "Longitude" : 76.9520299
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714281"), 
+    "HOTELNAME" : "Hotel Blue Nile", 
+    "EMAILID" : "mail@hotelbluenile.com", 
+    "Address" : "\"S.N. Park Road, Kannur - 670 001, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0497-2760077, 276478", 
+    "Fax" : "0497-2768844", 
+    "Website" : "www.hotelbluenile.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(39), 
+    "Size" : "Small", 
+    "Latitude" : 11.8717, 
+    "Longitude" : 75.35988
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714282"), 
+    "HOTELNAME" : "Hotel Amruthaa International", 
+    "EMAILID" : "amruthaainternational@gmail.com", 
+    "Address" : "\"No. CC 41/2884St. Benedict Road, Ernakulam, Kochi - 682 018, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0484-2398222-4192222", 
+    "Fax" : "0484-4050551", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(26), 
+    "Size" : "Small", 
+    "Latitude" : 9.9902599, 
+    "Longitude" : 76.28134
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714283"), 
+    "HOTELNAME" : "Fragrant Nature Retreat and Resort Pvt. Ltd.", 
+    "EMAILID" : "enquiries@fragrantnature.com", 
+    "Address" : "\"Building No. CPI/07-20A,Nedungolam P.O., Paravur, Kollam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4742514000", 
+    "Fax" : "4742518021", 
+    "Website" : "www.fragrantnature.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(18), 
+    "Size" : "Small", 
+    "Latitude" : 8.81208, 
+    "Longitude" : 76.67104
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714284"), 
+    "HOTELNAME" : "Hotel Presidency", 
+    "EMAILID" : "presid@vsnl.com", 
+    "Address" : "\"Paramara Road Ernakulam Town, Kochi, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4842394300", 
+    "Fax" : "4842393222", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(49), 
+    "Size" : "Small", 
+    "Latitude" : 9.9896999, 
+    "Longitude" : 76.28514
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714285"), 
+    "HOTELNAME" : "Hotel Raj Regency", 
+    "EMAILID" : "rajregencypnr@gmail.com", 
+    "Address" : "\"Chelakkara road,Pazhayannur, Thrissur, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4884226877", 
+    "Fax" : "4884666977", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(10), 
+    "Size" : "Small", 
+    "Latitude" : 10.69553, 
+    "Longitude" : 76.3316
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714286"), 
+    "HOTELNAME" : "ATS Residency", 
+    "EMAILID" : "info@atshotels.com", 
+    "Address" : "\"Yakkara Branch RoadNear D.P Office, Palakkad, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4912537477", 
+    "Fax" : "4912523182", 
+    "Website" : "atsresidency.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 10.75996, 
+    "Longitude" : 76.64989
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714287"), 
+    "HOTELNAME" : "The Royale Gardens", 
+    "EMAILID" : "info@theroyalegardens.com", 
+    "Address" : "\"Nangiarkulangara P.O.Haripad - Alleppey District, Kerala - 690513, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0479-2404000", 
+    "Fax" : "0479-2404999", 
+    "Website" : "www.theroyalegardens.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(34), 
+    "Size" : "Small", 
+    "Latitude" : 9.26493, 
+    "Longitude" : 76.46173
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714288"), 
+    "HOTELNAME" : "Hotel Srivatsa Regency", 
+    "EMAILID" : "hotelsrivatsaregency@gmail.com", 
+    "Address" : "\"Pittupeedika, Main Road,Koduvayur, Palakkad, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4923251119", 
+    "Fax" : "4923254119", 
+    "Website" : "www.hotelsrivatsaregency.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(12), 
+    "Size" : "Small", 
+    "Latitude" : 10.68793, 
+    "Longitude" : 76.66021
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714289"), 
+    "HOTELNAME" : "Hotel Hills Park", 
+    "EMAILID" : "hotelhillspark@gmail.com", 
+    "Address" : "\"Kumbazha Road,Pathanamthitta,District, Kerala, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4682226262", 
+    "Fax" : "NA", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(15), 
+    "Size" : "Small", 
+    "Latitude" : 9.26493, 
+    "Longitude" : 76.80706
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471428a"), 
+    "HOTELNAME" : "Neelamabari Suite", 
+    "EMAILID" : "infor@neelabarisuite.com", 
+    "Address" : "\"Villanchira,Thalakkodu P.O.Neriyamangalam, Ernakulam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4852555123", 
+    "Fax" : "4852555133", 
+    "Website" : "neelabarisuite.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(22), 
+    "Size" : "Small", 
+    "Latitude" : 10.05765, 
+    "Longitude" : 76.76845
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471428b"), 
+    "HOTELNAME" : "Excalibur Hotels & Resorts", 
+    "EMAILID" : "hotel.excalibur@gmail.com", 
+    "Address" : "\"Carithas Junction,MC Road,Thellakon, Kottayam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4812791781", 
+    "Fax" : "4812711784", 
+    "Website" : "www.excalibur.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 9.64598, 
+    "Longitude" : 76.54709
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471428c"), 
+    "HOTELNAME" : "Raj Residency", 
+    "EMAILID" : "rajgrouphotels@gmail.com", 
+    "Address" : "\"Near New bus standAlamipally, Kanhangad, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4672208444", 
+    "Fax" : "4672217294", 
+    "Website" : "rajgrouphotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(198), 
+    "Size" : "Large", 
+    "Latitude" : 12.2964, 
+    "Longitude" : 75.10845
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471428d"), 
+    "HOTELNAME" : "Muthoot Cardamom County Resort", 
+    "EMAILID" : "reservations@muthoothotels.com", 
+    "Address" : "\"Kumily (PO)Thekkady, Idukki (Dist.) - 685536, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04869-224501", 
+    "Fax" : "04869-222869/222807", 
+    "Website" : "www.raxacollective.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(44), 
+    "Size" : "Small", 
+    "Latitude" : 9.60466, 
+    "Longitude" : 77.17113
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471428e"), 
+    "HOTELNAME" : "Hotel White Dammar International", 
+    "EMAILID" : "whitedammar@gmail.com", 
+    "Address" : "\"Pappanamcode, Trivandrum - 695 018, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4712496601", 
+    "Fax" : "4712496602", 
+    "Website" : "hotelwhitedammar@gmail.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(12), 
+    "Size" : "Small", 
+    "Latitude" : 8.4703199, 
+    "Longitude" : 76.98094
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471428f"), 
+    "HOTELNAME" : "Hotel SP Grand Days", 
+    "EMAILID" : "mail@spgranddays.com", 
+    "Address" : "\"Panavila JnThycaud P.O., Thiruvananthapuram - 695014, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-2333344", 
+    "Fax" : "0471-2321000", 
+    "Website" : "www.spgranddays.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(69), 
+    "Size" : "Medium", 
+    "Latitude" : 8.49551, 
+    "Longitude" : 76.96207
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714290"), 
+    "HOTELNAME" : "Hotel Peninsula Park Residency", 
+    "EMAILID" : "parkresidency.park@gmail.com", 
+    "Address" : "\"Motel and Resorts Pvt. Ltd.Parakode, Adoor, Pathanamthitta Dist., KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4734243435", 
+    "Fax" : "4734243345", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 9.14857, 
+    "Longitude" : 76.7587999
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714291"), 
+    "HOTELNAME" : "Hotel Indraprastha", 
+    "EMAILID" : "indraprasthapattazhi@yahoo.com", 
+    "Address" : "\"Pattazhi P.O.Pathanapuram, Kollam Dist.-691522, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04752039600,2397888-", 
+    "Fax" : "4752397889", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(14), 
+    "Size" : "Small", 
+    "Latitude" : 9.0779599, 
+    "Longitude" : 76.80999
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714292"), 
+    "HOTELNAME" : "Hotel Mangala Towers", 
+    "EMAILID" : "mangalatowers@gmail.com", 
+    "Address" : "\"Paliyam RoadNear Bus Stand, Thrissur - 680001, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04872327461/2/3", 
+    "Fax" : "4872325365", 
+    "Website" : "www.hotelmangalatowers.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(24), 
+    "Size" : "Small", 
+    "Latitude" : 10.52125, 
+    "Longitude" : 76.2194899
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714293"), 
+    "HOTELNAME" : "Hotel Soorya Regency", 
+    "EMAILID" : "sooryaregency@gmail.com", 
+    "Address" : "\"Calicut By-Pass RoadKavungal, Malappuram - 676505, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0483-2735674-76", 
+    "Fax" : "0483-2735677", 
+    "Website" : "www.sooryaregency.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(13), 
+    "Size" : "Small", 
+    "Latitude" : 11.04307, 
+    "Longitude" : 76.07384
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714294"), 
+    "HOTELNAME" : "Hotel Moonlit Regency", 
+    "EMAILID" : "info@moonlitregency.com/hotelmoonlit@ymail.com", 
+    "Address" : "\"4, Lane JunctionVengallor Muvatupuzha Road, Thodupuzha Idukki District-685584, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04862-229936/229937", 
+    "Fax" : "04862-229938", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(22), 
+    "Size" : "Small", 
+    "Latitude" : 9.90481, 
+    "Longitude" : 76.7106699
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714295"), 
+    "HOTELNAME" : "Hotel Sky Pearl", 
+    "EMAILID" : "hotelskypearl@gmail.com", 
+    "Address" : "\"Chovva, Kannur - 670006, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0479-5265060", 
+    "Fax" : "0479-2786443", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(28), 
+    "Size" : "Small", 
+    "Latitude" : 11.87369, 
+    "Longitude" : 75.4252999
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714296"), 
+    "HOTELNAME" : "The Royal Fort", 
+    "EMAILID" : "info@theroyalfort.com", 
+    "Address" : "\"Hospital JunctionKundara P.O., Kollam Dist. - 691501, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0474-2520001-02-03", 
+    "Fax" : "0474-2520004", 
+    "Website" : "www.theroyalfort.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(12), 
+    "Size" : "Small", 
+    "Latitude" : 8.95891, 
+    "Longitude" : 76.68163
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714297"), 
+    "HOTELNAME" : "Hotel Soorya Galaxy", 
+    "EMAILID" : "sooryagalaxy@gmail.com", 
+    "Address" : "\"(A Unit of Sreebala Divelopers & Hotel Pvt. Ltd.)13/158 A, Calicut Road, Cheruvannur, P.O. Feroke, Calicut - 673731, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0495-2485150/2485240", 
+    "Fax" : "0495-2455330", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(12), 
+    "Size" : "Small", 
+    "Latitude" : 11.17355, 
+    "Longitude" : 75.83521
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714298"), 
+    "HOTELNAME" : "Cochin Seaport Hotel", 
+    "EMAILID" : "seaporthotels@gmail.com", 
+    "Address" : "\"Thekken MalipuramVypin, Cochin - 682 508, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "9846032737", 
+    "Fax" : "0484-2503757", 
+    "Website" : "www.cochinseaporthotel.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(25), 
+    "Size" : "Small", 
+    "Latitude" : 9.99563, 
+    "Longitude" : 76.23223
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d54714299"), 
+    "HOTELNAME" : "The Avenue Regent", 
+    "EMAILID" : "avenueregent@avenuehotels.in", 
+    "Address" : "\"39/2026,M.G. Road, Kochi, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4842377977", 
+    "Fax" : "484237529", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(55), 
+    "Size" : "Medium", 
+    "Latitude" : 10.0838, 
+    "Longitude" : 76.2103
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471429a"), 
+    "HOTELNAME" : "Spice Village", 
+    "EMAILID" : "spicevillage@cghearth.com", 
+    "Address" : "\"Thekkady - Kumily Road, Thekkady - 685536, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "04869-224514", 
+    "Fax" : "04869-222317", 
+    "Website" : "www.cghearth.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(52), 
+    "Size" : "Medium", 
+    "Latitude" : 9.60574, 
+    "Longitude" : 77.16721
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471429b"), 
+    "HOTELNAME" : "Hotel Midhila Regency", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"Midhila Regncy Cherplassery Hotels Pvt.Ltd.Pattambi road, Cherpulassery Palakkad Dist., kerala, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "NA", 
+    "Fax" : "NA", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(10), 
+    "Size" : "Small", 
+    "Latitude" : 10.87908, 
+    "Longitude" : 76.31563
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471429c"), 
+    "HOTELNAME" : "Hotel Soorya Swagat", 
+    "EMAILID" : "www.sooryaswagath.in", 
+    "Address" : "\"Pudussery EastPalakkad, Walayar, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4912863100", 
+    "Fax" : "4912863103", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(14), 
+    "Size" : "Small", 
+    "Latitude" : 10.81674, 
+    "Longitude" : 76.80355
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471429d"), 
+    "HOTELNAME" : "The Hotel Elegance", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"Karuvanchal POThalimapram, Kannur, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4602247400", 
+    "Fax" : "460247400", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(13), 
+    "Size" : "Small", 
+    "Latitude" : 12.16506, 
+    "Longitude" : 75.4576699
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471429e"), 
+    "HOTELNAME" : "K R Grand Residency", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"Parayil Market RoadKunnamkulam, Thrissur, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4885211563", 
+    "Fax" : "NA", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(14), 
+    "Size" : "Small", 
+    "Latitude" : 10.65025, 
+    "Longitude" : 76.07003
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d5471429f"), 
+    "HOTELNAME" : "Hotel Dona Castle", 
+    "EMAILID" : "donacastle@gmail.com", 
+    "Address" : "\"(Unit of Sunny Jacob Builders & Developers Pvt. Ltd.)Kottamukku, Kollam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4742766669", 
+    "Fax" : "4742760099", 
+    "Website" : "www.hoteldonacastle.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(31), 
+    "Size" : "Small", 
+    "Latitude" : 8.8869, 
+    "Longitude" : 76.59228
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a0"), 
+    "HOTELNAME" : "Hotel Fairmont", 
+    "EMAILID" : "info@hotelfairmont.in", 
+    "Address" : "\"S.H. Mount,M.C. Road, Kottayam, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4812569256", 
+    "Fax" : "4812569246", 
+    "Website" : "www.hotelfairmont.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(30), 
+    "Size" : "Small", 
+    "Latitude" : 9.60195, 
+    "Longitude" : 76.53202
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a1"), 
+    "HOTELNAME" : "Hotel Anandha Inn Pvt. Ltd.", 
+    "EMAILID" : "checkin@anandhainn.com", 
+    "Address" : "\"NO-154S.V PATEL ROAD, PONDICHERRY, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4132233000", 
+    "Fax" : "4132331241", 
+    "Website" : "www.anandhainn.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(70), 
+    "Size" : "Medium", 
+    "Latitude" : 11.93551, 
+    "Longitude" : 79.79887
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a2"), 
+    "HOTELNAME" : "Niya Regency", 
+    "EMAILID" : "niyaregency@gmail.com", 
+    "Address" : "\"Elthuruth Junction,Chettupuzha P.O., Thrissur, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "4872363667", 
+    "Fax" : "4872363667", 
+    "Website" : "www.niyaregency.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(20), 
+    "Size" : "Small", 
+    "Latitude" : 10.50967, 
+    "Longitude" : 76.16825
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a3"), 
+    "HOTELNAME" : "The South Park", 
+    "EMAILID" : "reservations@thesouthpark.com", 
+    "Address" : "\"(Unit of Kerala Hotels Pvt. Ltd.)M.G. Road, Trivandrum - 695 034, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "0471-2333333, 324233", 
+    "Fax" : "0471-2331861", 
+    "Website" : "www.thesouthpark.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(82), 
+    "Size" : "Medium", 
+    "Latitude" : 8.50174, 
+    "Longitude" : 76.94962
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a4"), 
+    "HOTELNAME" : "Uday Samudra Leisure Beach Hotel", 
+    "EMAILID" : "toshali@nde.vsnal.net.in", 
+    "Address" : "\"G.V.Raja Road,Samudra Beach Kovalam, Trivandrum, KERALA\"", 
+    "State" : "KERALA", 
+    "Phone" : "1246563228", 
+    "Fax" : "1246563174", 
+    "Website" : "www.toshalinet.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(50), 
+    "Size" : "Small", 
+    "Latitude" : 8.40175, 
+    "Longitude" : 76.97335
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a5"), 
+    "HOTELNAME" : "SEASONS SERVICE APARTMENTS", 
+    "EMAILID" : "info@seasonsaundh.com", 
+    "Address" : "\"S. NO-128/2/3/6/7/2/2/128/A1,SANEWADI AUNDH, PUNE, Malad, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2040009999", 
+    "Fax" : "2040009888", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(46), 
+    "Size" : "Small", 
+    "Latitude" : 18.55452, 
+    "Longitude" : 73.8066
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a6"), 
+    "HOTELNAME" : "HOTEL BAWA INTERNATIONAL", 
+    "EMAILID" : "mail.bawaintl@vsnl.com", 
+    "Address" : "\"NEHRU ROAD EXTN.NEAR DOMESTIC AIRPORT VILE PARLE (E), Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2226113636", 
+    "Fax" : "2226107096", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(76), 
+    "Size" : "Medium", 
+    "Latitude" : 19.09721, 
+    "Longitude" : 72.85017
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a7"), 
+    "HOTELNAME" : "Hotel Courtyard By Marriott", 
+    "EMAILID" : "reservations.mumbai@courtyard.com", 
+    "Address" : "\"International Airport,CTS No. 215, Andheri Kurla Road, Andheri (East), Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2261479922", 
+    "Fax" : "2261479944", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(282), 
+    "Size" : "Large", 
+    "Latitude" : 19.11383, 
+    "Longitude" : 72.86421
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a8"), 
+    "HOTELNAME" : "Hotel Midtown Pritam", 
+    "EMAILID" : "reservations@pritamhotels.com", 
+    "Address" : "\"DharamputraPritam Estate Dr.Ambedkar Road, Dadar T.T, Mumbai-400014, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-24145555/6580663", 
+    "Fax" : "022-24143388", 
+    "Website" : "www.pritamhotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(60), 
+    "Size" : "Medium", 
+    "Latitude" : 19.14332, 
+    "Longitude" : 72.93755
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142a9"), 
+    "HOTELNAME" : "Hotel Trident", 
+    "EMAILID" : "reservations@tridenthotels.com", 
+    "Address" : "\"C-56, G-Block,Bandra Kurla Complex, Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2266727777", 
+    "Fax" : "2266727788", 
+    "Website" : "tridenthotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(436), 
+    "Size" : "Large", 
+    "Latitude" : 19.06166, 
+    "Longitude" : 72.85889
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142aa"), 
+    "HOTELNAME" : "Hotel Tunga Regale", 
+    "EMAILID" : "regale@tungahotels.com", 
+    "Address" : "\"Plot No. 31, Phase IIMIDC, Central Road, Andheri (East), Mumbai - 400093, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66726672", 
+    "Fax" : "022-66726666", 
+    "Website" : "www.tungahotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(54), 
+    "Size" : "Medium", 
+    "Latitude" : 19.11793, 
+    "Longitude" : 72.86668
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142ab"), 
+    "HOTELNAME" : "Ramee Guestline Hotel", 
+    "EMAILID" : "mumbai.dadar@rameeguestlinehotels.com", 
+    "Address" : "\"Plot No. 3Kohinoor Road, Dadar (East), Mumbai - 400014, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-24177900/2411565", 
+    "Fax" : "022-24127503", 
+    "Website" : "www.ramee-group.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(58), 
+    "Size" : "Medium", 
+    "Latitude" : 19.008, 
+    "Longitude" : 72.8468
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142ac"), 
+    "HOTELNAME" : "K. Raheja Corp. Pvt. Ltd. \"The Resort\"", 
+    "EMAILID" : "resv@theresortmumbai.com/the_resort@vsnl.com", 
+    "Address" : "\"11,Aksa Beach,Malad (West), Mumbai - 400 095, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-28447777", 
+    "Fax" : "022-28804444 - 28818", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(94), 
+    "Size" : "Medium", 
+    "Latitude" : 19.1726199, 
+    "Longitude" : 72.79598
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142ad"), 
+    "HOTELNAME" : "Hotel Sagar Plaza", 
+    "EMAILID" : "reservations@hotelsagarplaza.com/info@hotelsagarplaza.com", 
+    "Address" : "\"1Bund Garden Road, Pune - 411001, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "020-26205000", 
+    "Fax" : "020-26122633", 
+    "Website" : "www.hotelsagarplaza.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(76), 
+    "Size" : "Medium", 
+    "Latitude" : 18.5387999, 
+    "Longitude" : 73.8759
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142ae"), 
+    "HOTELNAME" : "The Central Park Hotel", 
+    "EMAILID" : "reservations@thecentralparkhotel.com", 
+    "Address" : "\"Bund Garden RoadNear Council Hall, Pune - 411 001, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-66641000", 
+    "Fax" : "022-66641010", 
+    "Website" : "www.thecentralparkhotel.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(74), 
+    "Size" : "Medium", 
+    "Latitude" : 18.53756, 
+    "Longitude" : 73.88141
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142af"), 
+    "HOTELNAME" : "Holiday Inn Mumbai International Airport", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"721/1,721/A,721/B of Mohali VillageAndhri Kurla Road, Sakinaka junction, Mumbai, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "2240851800", 
+    "Fax" : "2240851828", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(225), 
+    "Size" : "Large", 
+    "Latitude" : 19.10144, 
+    "Longitude" : 72.88097
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b0"), 
+    "HOTELNAME" : "The Emerald", 
+    "EMAILID" : "info@theemerald.com", 
+    "Address" : "\"(Hotel & Executive Apartment)Mumbai Next to Juhu Tara Road, Opp. Hotel Sea Princess, B.R. Chopra's Bungalow, Santacruz (West), Mumbai-400049, MAHARASHTRA\"", 
+    "State" : "MAHARASHTRA", 
+    "Phone" : "022-67144000", 
+    "Fax" : "022-67144005", 
+    "Website" : "www.theemerald.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(56), 
+    "Size" : "Medium", 
+    "Latitude" : 19.1123, 
+    "Longitude" : 72.82715
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b1"), 
+    "HOTELNAME" : "Hotel Polo Tower", 
+    "EMAILID" : "hptfo@rediffmail.com", 
+    "Address" : "\"Oakland RoadPolo Grounds, Shillong - 793001, MEGHALAYA\"", 
+    "State" : "MEGHALAYA", 
+    "Phone" : "0364-2222341-42", 
+    "Fax" : "0364-2220090", 
+    "Website" : "www.hotelpolotowers.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(50), 
+    "Size" : "Small", 
+    "Latitude" : 25.57701, 
+    "Longitude" : 91.88505
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b2"), 
+    "HOTELNAME" : "M.K.HOTEL", 
+    "EMAILID" : "MKHOTEL123@SANCHARNET.IN", 
+    "Address" : "\"DISTRICT SHOPPING CENTRE,RANJIT AVENUE, Amritsar, PUNJAB\"", 
+    "State" : "PUNJAB", 
+    "Phone" : "1832504610", 
+    "Fax" : "1832507910", 
+    "Website" : "www.mkhotel.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(75), 
+    "Size" : "Medium", 
+    "Latitude" : 31.65632, 
+    "Longitude" : 74.86105
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b3"), 
+    "HOTELNAME" : "THE MAYA HOTEL (Maya Inns Ltd.)", 
+    "EMAILID" : "mayajal@mayahotels.in", 
+    "Address" : "\"JALANDHAR CITYEH-178,CIVIL LINES,NEAR BMC CROSSIN, JALANDHAR CITY-144001, PUNJAB\"", 
+    "State" : "PUNJAB", 
+    "Phone" : "0181 4688700/22", 
+    "Fax" : "1812452301", 
+    "Website" : "http://www.mayahotels.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(53), 
+    "Size" : "Medium", 
+    "Latitude" : 31.32122, 
+    "Longitude" : 75.58369
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b4"), 
+    "HOTELNAME" : "Hotel Ritz Plaza", 
+    "EMAILID" : "ritzhotel@vsnl.com/info@ritzhotel.in", 
+    "Address" : "\"45The Mall, Amritsar - 143001, PUNJAB\"", 
+    "State" : "PUNJAB", 
+    "Phone" : "0183-2562836-39", 
+    "Fax" : "0183-2226657", 
+    "Website" : "www.titzhotel.in", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(41), 
+    "Size" : "Small", 
+    "Latitude" : 31.64167, 
+    "Longitude" : 74.87146
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b5"), 
+    "HOTELNAME" : "Country In & Suites, Ajmer", 
+    "EMAILID" : "maltidutta50@yahoo.com", 
+    "Address" : "\"Ansal's Sushant City, Village Gegalkishangarh-Ajmer Road, Ajmer, RAJASTHAN\"", 
+    "State" : "RAJASTHAN", 
+    "Phone" : "1456623456", 
+    "Fax" : "1456623466", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(71), 
+    "Size" : "Medium", 
+    "Latitude" : 26.33052, 
+    "Longitude" : 74.71256
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b6"), 
+    "HOTELNAME" : "The Royal Plaza", 
+    "EMAILID" : "trp@sarovarhotels.com", 
+    "Address" : "\"Shyari - GangtokEast sikkim, Gangtok -737102, SIKKIM\"", 
+    "State" : "SIKKIM", 
+    "Phone" : "03592-280232", 
+    "Fax" : "03592-281112", 
+    "Website" : "www.theroyalplazahotel.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(58), 
+    "Size" : "Medium", 
+    "Latitude" : 27.32136, 
+    "Longitude" : 88.6121299
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b7"), 
+    "HOTELNAME" : "The Residency Towers", 
+    "EMAILID" : "restowers@vsnl.net", 
+    "Address" : "\"Sir Thyagaraya RoadT. Nagar, Chennai - 600 017, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-28156363", 
+    "Fax" : "044-28156969", 
+    "Website" : "www.theresidency.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(174), 
+    "Size" : "Large", 
+    "Latitude" : 13.04066, 
+    "Longitude" : 80.23832
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b8"), 
+    "HOTELNAME" : "Hotel Sangam ", 
+    "EMAILID" : "hotelsangam@vsnl.com", 
+    "Address" : "\"Collectors Office Road , Tiruchirapalli , TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "4312414700", 
+    "Fax" : "431241779", 
+    "Website" : "www.hotelsangam.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(76), 
+    "Size" : "Medium", 
+    "Latitude" : 10.79979, 
+    "Longitude" : 78.67412
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142b9"), 
+    "HOTELNAME" : "Quality Inn Sabari", 
+    "EMAILID" : "sabariinn@sabarihotels.com", 
+    "Address" : "\"29,Thirumalai Pillai RoadT. Nagar, Chennai, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "4428343030", 
+    "Fax" : "4428345868", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(72), 
+    "Size" : "Medium", 
+    "Latitude" : 13.05081, 
+    "Longitude" : 80.24034
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142ba"), 
+    "HOTELNAME" : "The Savera Hotel", 
+    "EMAILID" : "hotsave@md2.vsnl.net.in", 
+    "Address" : "\"No. 146, Dr. Radhakrishnan SalaiMylapore, Chennai - 600 004, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044 -28114700", 
+    "Fax" : "044 -28113475", 
+    "Website" : "www.saverahotel.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(230), 
+    "Size" : "Large", 
+    "Latitude" : 13.04368, 
+    "Longitude" : 80.27462
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142bb"), 
+    "HOTELNAME" : "Hotel Raj Park (P) Ltd.", 
+    "EMAILID" : "reservation@rajparkchennai.com", 
+    "Address" : "\"180, T.T.K. Road Alwarpet,Chennai - 600018, TAMIL NADU\"", 
+    "State" : "TAMIL NADU", 
+    "Phone" : "044-42257777", 
+    "Fax" : "044-24990749", 
+    "Website" : "www.rajpark.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(89), 
+    "Size" : "Medium", 
+    "Latitude" : 13.03181, 
+    "Longitude" : 80.25193
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142bc"), 
+    "HOTELNAME" : "Fortune Inn Grazia", 
+    "EMAILID" : "gm.roc.nm@royalorchidhotels.com", 
+    "Address" : "\"(Unit of Angel Baby Products Pvt. Ltd) Plot NO.1 A, Block - 1Sector - 27 Noida, UTTAR PRADESH\"", 
+    "State" : "UTTAR PRADESH", 
+    "Phone" : "1203988444", 
+    "Fax" : "1203380144", 
+    "Website" : "royalorchidhotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(42), 
+    "Size" : "Small", 
+    "Latitude" : 28.57573, 
+    "Longitude" : 77.33206
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142bd"), 
+    "HOTELNAME" : "Country Inn & Suites by Carlson - Haridwar", 
+    "EMAILID" : "reservations@cisharidwar.com", 
+    "Address" : "\"( Unit of Sens Udyog Pvt. Ltd.)Haripurkalan, Raiwala, Motichur, Haridwar - Rishikesh Highway, Haridwar, Dist. Dehradun - 249205, UTTARAKHAND\"", 
+    "State" : "UTTARAKHAND", 
+    "Phone" : "0135-2485900", 
+    "Fax" : "0135-2485901", 
+    "Website" : "NA", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(56), 
+    "Size" : "Medium", 
+    "Latitude" : 29.99727, 
+    "Longitude" : 78.19799
+}
+{ 
+    "_id" : ObjectId("5ba9cb40e54d092d547142be"), 
+    "HOTELNAME" : "The Peerless Inn", 
+    "EMAILID" : "pik@sarovarhotels.com", 
+    "Address" : "\"12J. L. Nehru Road, Kolkata - 700 013, WEST BENGAL\"", 
+    "State" : "WEST BENGAL", 
+    "Phone" : "033-44003900", 
+    "Fax" : "033-22281270", 
+    "Website" : "www.peerlesshotels.com", 
+    "Type" : "4 Star", 
+    "Rooms" : NumberInt(122), 
+    "Size" : "Large", 
+    "Latitude" : 22.56447, 
+    "Longitude" : 88.35121
+}
